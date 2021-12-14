@@ -11,6 +11,9 @@
     - [Scene 5 - The Lobby](#scene-5---the-lobby)
     - [Scene 6 - Spaceship Ending](#scene-6---spaceship-ending)
     - [Scene 7 - Outside Ending](#scene-7---outside-ending)
+      - [Background](#background)
+      - [Interactions Sequence](#interactions-sequence)
+      - [Implementation](#implementation)
   - [Visuals](#visuals)
   - [Audio](#audio)
   - [Process](#process)
@@ -51,24 +54,19 @@ Our project has 7 scenes in total, each scene is crucial to the
 ### Scene 2 - The Corridor 
 
 ** Background **
-In the corridor, the inventor is faced with her past. The corridor consists of holographic panels that the inventor encounters, she stands and contemplates over the things that got her to where she is today. The player here is meant to be given as much context as possible in order for them to grasp the kind of person they are in this reality. They are someone important, but beyond that, they have an important choice to make. 
+
 ** Interactions Sequence **
-- The inventor 
+
 ** Implementation**
 
 ### Scene 3 - The Lab 
 ![Lab Image](/https://www.clickz.com/wp-content/uploads/2016/06/Screen-Shot-2016-06-24-at-12.15.40.png)
 
+Background of the scene: the lab scene is the inventor's first encounter with one group of interest — the scientists. The inventor would be greeted by the representative of the scientist group - Joseph, who is also her friend. Joseph would show the hyper-growth concept to the inventor in an attempt to persuade the inventor into supporting the scientists. 
+
 ** Background **
-The lab scene is the inventor's second encounter with one group of interest — the scientists. The inventor would be greeted by the representative of the scientist group - Joseph, who is also her friend. Joseph would show the hyper-growth concept to the inventor in an attempt to persuade the inventor into supporting the scientists. 
 
 ** Interactions Sequence **
-- Greeted by Joseph: when the inventor enters the lab, Joseph would come over and greet her
-- Follow Joseph and see him talking: after greeting, Joseph would ask the user to follow him over to the lab table. When the user comes, Joseph would introduce her to the concept of hypergrowth.
-- Pour the bottle: Joseph would instruct the inventor to pick up the yellow bottle on the table and pour it inside the blue container on the robot's hand.
-- See the plant grow: after the inventor successfully pours into the blue container, the inventor would see a pump transferring the yellow chemicals into the tube, and the plant will grow.
-- Respond to Joseph: after the inventor sees the plant growing quickly, Joseph will ask her if such an effect has changed her mind. Then a UI would appear asking the inventor to respond (has two options). Joseph would respond accordingly.
-- Leave the lab: the inventor received enough information and would like to take a walk outside to clear her head. Joseph would say goodbye to her and the inventor would go to the teleport portal and teleport to the outside world.
 
 ** Implementation**
 
@@ -103,32 +101,43 @@ The lab scene is the inventor's second encounter with one group of interest — 
 
 ### Scene 7 - Outside Ending 
 
-** Background **
+#### Background 
 
-** Interactions Sequence **
+#### Interactions Sequence 
 
-** Implementation**
+#### Implementation
 
 
 ## Visuals 
+The aesthetic of our games aimed to revolve around a voxel world, where the environment is pixelated and objects are in remote resemblance to Minecraft.
+To achieve this, the work was broken down into several parts.
+First, finding the corresponding inspiration. Voxel art seems to be a growing trend in the 3D art community lately, and it consequently was easy to find good looking references on Behance to get a feel for how voxel spaces could look like in VR. More specifically, we took inspiration from some of the works from [this artist on Behance](https://www.behance.net/joannan/).
+
+Here are some time lapses of the voxel asset making.
+
+Alongside with handmade assets, we decided to also make our own characters. For that we used Blender, which turned out to be a somewhat convenient 3D asset making tool. We followed this tutorial to make a smooth-looking and minimal character. Once completed, it served as the foundation for other characters used in the whole game.
+In reflecting on the Blender experience, a few things immediately come to mind. There was a lot to learn about the concept of vertices and how it is used to create shapes in 3D. So far, going from Shapr3D to voxels, Blender provides the best way to work with forms, and its versatility in both allowing the important and export of a variety of 3D files made a huge impact in our project workflow. But all this did not come without a cost. While it is easy to make smooth shapes in Blender, it is important to keep an eye on the statistics. At the end of our project, we realized that each character had over 200,000 vertices, which created a number of issues when rendering our project in VR. Learning from mistakes, this is definitely a crucial outcome in the asset making experience.
+
+Developing a bit on the visuals of each character, we decided to keep things straightforward. The hologram in the first scene was a female version of the very first character we made. It does not feature any special clothing, although it was somewhat challenging to create longer hair, as it is depicted in the time-lapse below. All other characters representing the cult feature a coat also made from scratch in Blender. It was made thanks to [this four part tutorial](https://youtu.be/tOCSOWOvn9Y), which complemented nicely the expansion of our asset making skills, now featuring clothes making.
 
 
 ## Audio 
 
-The audio for the project was comprised of 
-
 ## Process 
 
 
+hi
 ## Playtesting 
 
-We got a few of our classmates to playtest and based on that we refined and further improved our project. Here's more on what that process was like. This was a pretty fun experience! Note that playtesting was done when we had 3 scenes half built. Those three scenes are the Lobby, Corridor and the Lab. The basic interactions had been set up but everything at this point of the project was still pretty janky and needed bob the builder (we fixed it ;>). 
+I got a few of our classmates to playtest and based on that we refined and further improved our project. Here's more on what that process was like. I would like to state that this was a pretty fun experience! Note that playtesting was done when we had 3 scenes half built. Those three scenes are the Lobby, Corridor and the Lab. The basic interactions had been set up but everything at this point of the project was still pretty janky and needed bob the builder (we fixed it ;>). 
 
 ### Playtester: Professor
 
-**Feedback for the Corridor**
-- Disappearing/Appearing and have a laser sound (scale up, flash on), move towards you
-- Ray-cast on the holographs in the corridor.  
+Citizen Kane → Newspaper montage. 
+
+Disappearing/Appearing and have a laser sound (scale up, flash on), move towards you
+
+Ray-cast on the holographs in the corridor, >> 
 
 ### Playtester: Rainee 
 
@@ -139,18 +148,21 @@ Miss Rainee stated that "The vibe check has been passed". This alludes to the ae
 - Hand Guide, left hand teleport-er, right hand
 
 **Feedback for the Lab**
-- Guiding the user around needs to work just a little bit better 
-- Joseph's voice needs to be higher 
-- Make him pause before telling us to play around by ourselves 
-- Fix the textures 
+
+Guiding the user around needs to work just a little bit better 
+
+Joseph's voice needs to be higher 
+
+Make him pause before telling us to play around by ourselves 
+
+Fix the textures 
 
 ### Playtester: Ons
 
-**Feedback for the Corridor**
 - Door how to open
 - Corridor goes away too fast
 - Fixing how the doctor acts basically
-- XR scene transitions are incomplete 
+- XR scene fix
 - More time to read
 
 ### Playtester: Marta 

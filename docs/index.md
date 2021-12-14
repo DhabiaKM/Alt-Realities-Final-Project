@@ -1,6 +1,7 @@
 # Faith (in)Humanity Documentation 
-
+## Table of Contents
 - [Faith (in)Humanity Documentation](#faith-inhumanity-documentation)
+  - [Table of Contents](#table-of-contents)
   - [Our Inspiration and Initial Idea](#our-inspiration-and-initial-idea)
   - [Scenes](#scenes)
     - [Scene 1 - The Lobby](#scene-1---the-lobby)

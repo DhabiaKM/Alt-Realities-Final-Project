@@ -944,6 +944,7 @@ Here are some of the challenges that we faced while working on this project. To 
 ### Technical Challenges
 Our project is animation and interaction heavy. The hard part is not only about the detailed scripting logic, but also about linking everything together (animation, scripts, shaders, particles, etc). There are many details in each step that would require logics and systematic thinking to keep track of everything. Also, the Awake(), Start(), Update() and Coroutines should be considered carefully before using them because they're directly related to the frames and would directly impact the visual effects. Take the pouring interaction and plant growing animation as an example. The steps are explained in detail as follows:
 
+![image](https://drive.google.com/uc?export=view&id=1Glc1vsbDy7q0EN0GSm-XLmFGlZoG4J39)
 
 
 There are actually far more details than described above, like how much/fast the particles move, how to make the particles move within a certain boundary and when to kill them. Also, whether to update the animation in Update() or in a Coroutine would also impact the visual effects. There are a lot of detailed manipulations about the parameters to make them work as a whole. 
@@ -952,7 +953,9 @@ Another technical challenge we ran into was related to our characters. We had ch
 
 ### Expecting User Behavior
 
-Following the previous section, there are also challenges about expecting user behavior. For example, in the lab scene, there are many expected behaviors that users may not necessarily follow. Another mind-map is shown to show the problems and solutions:
+Following the previous section, there are also challenges about expecting user behavior. For example, in the lab scene, there are many expected behaviors that users may not necessarily follow. Another mind-map to show the problems and solutions:
+
+![image](https://drive.google.com/uc?export=view&id=17d0km3XvmLa8VFbN8saWpEVlhX8T5SeB)
 
 The detailed expectations of possible user behavior and proper limitation/intervention could protect the whole user experience without breaking the fourth wall.
 

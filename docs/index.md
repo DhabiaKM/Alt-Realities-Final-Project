@@ -26,6 +26,8 @@
     - [Expecting User Behavior](#expecting-user-behavior)
     - [Storytelling Challenges](#storytelling-challenges)
   - [Reflection and Final Thoughts](#reflection-and-final-thoughts)
+    - [What Was](#what-was)
+    - [What Could Have Been](#what-could-have-been)
 
 
 
@@ -509,15 +511,17 @@ Another storytelling challenge also came with the two ending scenes, we already 
 
 ## Reflection and Final Thoughts
 
+### What Was
 Any final thoughts: what we've achieved, what we could improve
 
 Given the time limit, division of work, technical difficulty, and the giant content of the project itself, we think have successfully achieved the storytelling, world-building, and interactions requirements. The story is a complete and playable one, and the animations, sound, and interactions are well integrated to ensure an immersive experience. The expectations of user behavior are also well manipulated to guarantee the fourth wall experience.
 
 While we have tried our best to achieve the best possible project within the short time limit, there's still much to improve to enhance the user experience. 
 
+### What Could Have Been
 Things we would've implemented if we had more time: 
 
-1. More autonomous agents and background storytelling: our visuals, for now, are relatively simple, there are so many details to add for a giant world-building. Also for the NPCs, the world would be more chaotic if there are many NPCs from various groups of interests trying to persuade the user into a certain decision.
+1. More autonomous agents and background storytelling: our visuals, for now, are  simple, there are so many details that could be added to enhance our world-building. Also for the NPCs, the world would be more more lively if there were more NPCs from various groups of interests trying to persuade the user into a certain decision.
 2. More about the ending scenes: due to the time limit we leave the ending scenes up to the user's imagination. But if we build more about the ending scenes the story would be more dramatic. 
 3. More sound effects: sounds could play a large role in storytelling. We could add more dramatic sound if we have time so as to add more life to the story.
 

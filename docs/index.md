@@ -3,6 +3,7 @@
 - [Faith (in)Humanity Documentation](#faith-inhumanity-documentation)
   - [Table of Contents](#table-of-contents)
   - [Our Inspiration and Initial Idea](#our-inspiration-and-initial-idea)
+  - [Finalized Story](#finalized-story)
   - [Process of Building the Scenes](#process-of-building-the-scenes)
     - [Scene 1 - The Lobby](#scene-1---the-lobby)
     - [Scene 2 - The Corridor](#scene-2---the-corridor)
@@ -34,6 +35,125 @@ Our project is inspired by the popular science fiction novel *The Three-Body Pro
 How would different people react to the realization that everything that they once knew might just collapse? Some people will try to persist and fight the idea that 
 
 We didn't replicate that story, rather we found that people's different reactions to doomsday interesting. Some people are calm and trying to find solutions, some people are in panic and some people are even worshiping the aliens. To dramatize the story, we want to showcase various interests of the group and present to the user the important decision to make that would determine the fate of humankind. 
+
+## Finalized Story 
+
+```markdown
+
+Scene 1: **And From God's Cradle You Emerge.**
+
+An inventor who has achieved many a great thing on planet Earth wakes up one day as it dawns upon him that the end is near. He looks out of his HD screen windows and feels a hopeless anger encroach upon him. He looks around for the room controller and presses the button to change what is being displayed, he is not in the mood for niceties or fake beauty. As he goes through them, he settles for the one of The Andromeda galaxy. It calms him down.  
+
+There is a choice he must make, one that will either end him, or end everyone else. The government, the hopeful and the cynical have all placed their trust in this one singular man, who is he, you may wonder? You. He is you. The inventor is in what people of the past may call “his prime”, he stands up and listens to a holographic message from the government. The message reminded him that he needed to make a choice. The remaining millions relied on him.
+
+The inventor gets up, cursing the day he decided to invent his greatest accomplishment: a device that was able to detect signals from other galaxies. The entity he has been in contact with are relentless, but he does not know them.
+
+*I must approach this with caution.* He once told himself. But what is caution when the Earth and the people you are fighting for are almost gone?
+
+The inventor sighed and stood up, with the weight of the world on his shoulders. Unsure of what to do, he decides to leave his room.
+
+*Two choices.*
+
+*One Decision.*
+
+He walks over to the teleportation dock, using the fingerprint screen, he ends up in his hallway. 
+
+Scene 2: **Hubris Killed God in Him.**
+
+The hallway was designed by a college friend of his. He doesn't know where this friend is anymore, just that he is no longer alive. The story behind it is no longer important, all that it serves right now is as a reminder to all the countless meaningless achievements that the inventor has accumulated over his 36 years of life.
+
+*To what end?* He thought to himself. *In a few days this will not matter anymore.* 
+
+The hallway serves as a reminder, as a time-line, it was meant to immortalize his work but now, all it does is act as a reminder that no one will live to remember him or his glorifies glass awards. 
+
+Medals, Golden Cups, Ribbons, News Articles, Photographs of countless diplomatic dinners... 
+
+*To what avail?*
+
+*All I've done and all I've become will not matter if no one survives.*
+
+The inventor reaches another teleportation dock, this time he chooses to go see an old friend. 
+
+Scene 3: **This Edifice is Your Salvation.**
+
+He is now in a lab, one that he used to work in a really long time ago. His eyes widen in disbelief at how vacant and unkept the place appears to be. There are a few people working scattered around the area, no familiar faces around. He almost assumes the worst before he hears a voice call out to him.
+
+"NAME, over here." 
+
+A high school friend of his, Dr. NAME2, calls out to him from the back. The inventor walks over to him, relieved that at least someone is alive. His scientist friend begins to talk immediately as he gets to him, he goes on and on about new findings that could save the planet. Nanoparticles, plants, soil, the inventor finds himself getting lost. 
+
+The scientist decides to stop explaining and show him instead. They both move to a round table, the scientist starts explaining the step, and the inventor executes them. He scoops the soil, placing it in a basin, and then pouring the chemicals from the long test tubes. 
+
+The scientist instructs him to place it on a circular platform, where there is a light bulb that imitates the rays of the sun. 
+
+"Watch." The scientist says. 
+
+He squints in response trying to spot what his friend was signaling for. His eyes widen in disbelief. 
+
+"It's growing." He whispers. "NAME2, it's growing! A tomato plant is growing!" 
+
+The scientist smiles and looks him in the eye. 
+
+"You have to endorse this, Name, you have to do this for me," He says. "I know you gave up charity work a really long time ago, but I need funding. You saw what I can do. You know what this means, right? This means you won't have to choose. We can stay here!"
+
+**The Inventor chooses to either endorse his friend or not. This decision will affect the final scene.** 
+
+The inventor leaves the lab after having made his choice. A feeling of uncertainty overwhelms him. 
+
+*Did I make the right choice?* 
+
+He shakes it off by reminding himself of his identity. 
+
+*I know more than anyone does, I make the decisions.* 
+
+*But... what if I made the wrong one?* 
+
+### Scene 4: **And this [is] the Manner of Your Release.**
+
+The inventor is now outdoors, staring at the night sky and looking at the ruins around him. The grass is a shade of brown that he had grown to despise, the color of rotten life, the color of death. He looks around and notices the trees.
+
+*Can I even call them trees?* 
+
+Nothing remains. He closes his eyes and tries to imagine how it was. The colors, the liveliness, the vibrancy that came along with a stable environment. He takes a deep breath and immediately regrets it. In the midst of the coughing fit he self-induced, he hears chanting noises in the distances. 
+
+"We shall welcome him with open arms!" 
+
+"He who was taken up from us into heaven shall return to take us with him." 
+
+"Look it's the false prophet!" 
+
+*Not them...* 
+
+The Children of Tarnara notice him almost immediately and start heading his way. As soon as they reach him they start throwing projectiles towards him. 
+
+"Who do you think you are?" 
+
+"You are powerless."
+
+They are a cult of people who believe everyone except those who join them will be exterminated. Their uniform is recognizable as they wear bright yellow cloaks and masks that resemble those of plague doctors. The youngest of them approaches you with a letter. 
+
+*You cannot defeat them. You cannot challenge them. You were the chosen one. You were supposed to rise. Now all that remains is for you to fall.* 
+
+Before he can react, the inventor is pushed into a teleportation portal. 
+
+Scene 5: Ending 1 → **Drown in the Fruits of Your Gluttony.**
+
+Space ship scene. To be Written. 
+
+The inventor chose not to endorse his scientist friend, he makes a choice to contact the extraterrestrial entities or not here. 
+
+Decided to leave earth → space environment
+
+Scene 6: Ending 2 → **You are No Refuge for the Oppressed.**
+
+The inventor chose to endorse his scientist friend and got him funding. 
+
+Earth recovering scene. To be Written. 
+
+Recovering scene (stays on earth) → trees growing
+
+```
+
 
 
 ## Process of Building the Scenes

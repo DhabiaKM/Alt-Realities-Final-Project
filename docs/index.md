@@ -1,3 +1,20 @@
+
+- [Faith (in)Humanity Documentation](#faith-inhumanity-documentation)
+  - [Our Inspiration and Initial Idea](#our-inspiration-and-initial-idea)
+  - [Scenes](#scenes)
+    - [Scene 1 - The Lobby](#scene-1---the-lobby)
+    - [Scene 2 - The Corridor](#scene-2---the-corridor)
+    - [Scene 3 - The Lab](#scene-3---the-lab)
+    - [Scene 4 - The Outside](#scene-4---the-outside)
+    - [Scene 5 - The Lobby](#scene-5---the-lobby)
+    - [Scene 6 - Spaceship Ending](#scene-6---spaceship-ending)
+    - [Scene 7 - Outside Ending](#scene-7---outside-ending)
+  - [Visuals](#visuals)
+  - [Process](#process)
+  - [Playtesting](#playtesting)
+  - [Challenges](#challenges)
+  - [Reflection and Final Thoughts](#reflection-and-final-thoughts)
+
 # Faith (in)Humanity Documentation 
 
 

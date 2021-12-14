@@ -12,6 +12,8 @@ We didn't replicate that story, rather we found that people's different reaction
 
 ## Scenes
 
+Our project has 7 scenes in total, each scene is crucial to the 
+
 ### Scene 1 - The Lobby 
 
 ### Scene 2 - The Corridor 

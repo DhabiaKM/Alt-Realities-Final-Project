@@ -79,7 +79,12 @@ Background of the scene: the lab scene is the inventor's first encounter with on
 ### Scene 4 - The Outside 
 
 ** Background **
-
+The outside scene is where the inventor encounters another two groups of people who hold vastly different opinions about the right choice about humankinds' fate. One group is the panicked crowd, who would be running around, shouting or sighing in response to the desperate situation of the Earth. The inventor would see them, but won't interact with them. Another group is the cult, who worship the unknown extraterrestrials, regarding them more as gods who would save humans. The cult would see the inventor and come to her to persuade her into trusting and contacting the aliens. The cult also hate the inventor because the inventor, who herself is also a scientist, is involved in the process of high-tech development at the expense of resources depletion.
+Interaction Sequence:
+    - The inventor teleports to the outside area and sees people running and shouting around
+    - Three cults notice the inventor and run to her in sequence
+    - Three cults start talking to the inventor one after another
+    - After they finish talking, run back to their original place and start praying again
 ** Interactions Sequence **
 
 ** Implementation**

@@ -4,7 +4,6 @@
   - [Table of Contents](#table-of-contents)
   - [Our Inspiration and Initial Idea](#our-inspiration-and-initial-idea)
   - [Finalized Story](#finalized-story)
-    - [Scene 4: **And this [is] the Manner of Your Release.**](#scene-4-and-this-is-the-manner-of-your-release)
   - [Process of Building the Scenes](#process-of-building-the-scenes)
     - [Scene 1 - The Lobby](#scene-1---the-lobby)
     - [Scene 2 - The Corridor](#scene-2---the-corridor)
@@ -108,7 +107,7 @@ He shakes it off by reminding himself of his identity.
 
 *But... what if I made the wrong one?* 
 
-### Scene 4: **And this [is] the Manner of Your Release.**
+Scene 4: **And this [is] the Manner of Your Release.**
 
 The inventor is now outdoors, staring at the night sky and looking at the ruins around him. The grass is a shade of brown that he had grown to despise, the color of rotten life, the color of death. He looks around and notices the trees.
 

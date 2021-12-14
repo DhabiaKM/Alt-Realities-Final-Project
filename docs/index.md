@@ -4,6 +4,7 @@
   - [Table of Contents](#table-of-contents)
   - [Our Inspiration and Initial Idea](#our-inspiration-and-initial-idea)
   - [Finalized Story](#finalized-story)
+    - [Scene 4: **And this [is] the Manner of Your Release.**](#scene-4-and-this-is-the-manner-of-your-release)
   - [Process of Building the Scenes](#process-of-building-the-scenes)
     - [Scene 1 - The Lobby](#scene-1---the-lobby)
     - [Scene 2 - The Corridor](#scene-2---the-corridor)
@@ -38,7 +39,6 @@ We didn't replicate that story, rather we found that people's different reaction
 
 ## Finalized Story 
 
-```markdown
 
 Scene 1: **And From God's Cradle You Emerge.**
 
@@ -152,7 +152,6 @@ Earth recovering scene. To be Written.
 
 Recovering scene (stays on earth) → trees growing
 
-```
 
 
 

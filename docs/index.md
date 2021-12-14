@@ -120,7 +120,7 @@ The outside scene is where the inventor encounters another two groups of people 
 
 ### Scene 6 - Spaceship Ending 
 
-![image](https://drive.google.com/uc?export=view&id=1G_fs_XQK9gbGLjTQVhNKp25OjR5LnvGQ)
+![image](https://drive.google.com/uc?export=view&id=1Z35ihd7PlEjm6Gb4d_rj6vGLfdFL3Hu0)
 
 **Background**
 
@@ -132,8 +132,7 @@ The outside scene is where the inventor encounters another two groups of people 
 ### Scene 7 - Outside Ending 
 
 
-
-![image](https://drive.google.com/uc?export=view&id=1Z35ihd7PlEjm6Gb4d_rj6vGLfdFL3Hu0)
+![image](https://drive.google.com/uc?export=view&id=1G_fs_XQK9gbGLjTQVhNKp25OjR5LnvGQ)
 
 **Background**
 

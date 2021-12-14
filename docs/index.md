@@ -42,9 +42,10 @@ We didn't replicate that story, rather we found that people's different reaction
 
 Our project has 7 scenes in total, each scene is crucial to the 
 
+
 ### Scene 1 - The Lobby 
 
-![image](https://drive.google.com/uc?export=view&id=1RoAgrhXLfzmQxL8BRFg9bKvRDYzwz5n0)
+![image](https://drive.google.com/uc?export=view&id=14S5KHsocPyrCl7GdYa0iaVq8ZkZoJedZ)
 
 **Background**
 
@@ -55,7 +56,7 @@ Our project has 7 scenes in total, each scene is crucial to the
 
 ### Scene 2 - The Corridor 
 
-![image](https://drive.google.com/uc?export=view&id=1RoAgrhXLfzmQxL8BRFg9bKvRDYzwz5n0)
+![image](https://drive.google.com/uc?export=view&id=1WgtXSW0XS11F_2-vwS9b12Hk_KxbfAp6)
 
 **Background**
 

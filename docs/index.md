@@ -110,9 +110,14 @@ Background of the scene: the lab scene is the inventor's first encounter with on
 ## Visuals 
 The aesthetic of our games aimed to revolve around a voxel world, where the environment is pixelated and objects are in remote resemblance to Minecraft.
 To achieve this, the work was broken down into several parts.
-First, finding the corresponding inspiration. Voxel art seems to be a growing trend in the 3D art community lately, and it consequently was easy to find good looking references on Behance to get a feel for how voxel spaces could look like in VR. More specifically, we took inspiration from some of the works from [this artist on Behance] (https://www.behance.net/joannan).
+First, finding the corresponding inspiration. Voxel art seems to be a growing trend in the 3D art community lately, and it consequently was easy to find good looking references on Behance to get a feel for how voxel spaces could look like in VR. More specifically, we took inspiration from some of the works from [this artist on Behance](https://www.behance.net/joannan/).
 
 Here are some time lapses of the voxel asset making.
+
+Alongside with handmade assets, we decided to also make our own characters. For that we used Blender, which turned out to be a somewhat convenient 3D asset making tool. We followed this tutorial to make a smooth-looking and minimal character. Once completed, it served as the foundation for other characters used in the whole game.
+In reflecting on the Blender experience, a few things immediately come to mind. There was a lot to learn about the concept of vertices and how it is used to create shapes in 3D. So far, going from Shapr3D to voxels, Blender provides the best way to work with forms, and its versatility in both allowing the important and export of a variety of 3D files made a huge impact in our project workflow. But all this did not come without a cost. While it is easy to make smooth shapes in Blender, it is important to keep an eye on the statistics. At the end of our project, we realized that each character had over 200,000 vertices, which created a number of issues when rendering our project in VR. Learning from mistakes, this is definitely a crucial outcome in the asset making experience.
+
+Developing a bit on the visuals of each character, we decided to keep things straightforward. The hologram in the first scene was a female version of the very first character we made. It does not feature any special clothing, although it was somewhat challenging to create longer hair, as it is depicted in the time-lapse below. All other characters representing the cult feature a coat also made from scratch in Blender. It was made thanks to [this four part tutorial](https://youtu.be/tOCSOWOvn9Y), which complemented nicely the expansion of our asset making skills, now featuring clothes making.
 
 
 ## Audio 

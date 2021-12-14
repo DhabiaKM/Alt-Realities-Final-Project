@@ -38,7 +38,7 @@ How would different people react to the realization that everything that they on
 We didn't replicate that story, rather we found that people's different reactions to doomsday interesting. Some people are calm and trying to find solutions, some people are in panic and some people are even worshiping the aliens. To dramatize the story, we want to showcase various interests of the group and present to the user the important decision to make that would determine the fate of humankind. 
 
 
-## Scenes
+## Process of Building the Scenes
 
 Our project has 7 scenes in total, each scene is crucial to the 
 
@@ -158,13 +158,10 @@ Developing a bit on the visuals of each character, we decided to keep things str
 
 ## Audio 
 
-## Process 
 
-
-hi
 ## Playtesting 
 
-I got a few of our classmates to playtest and based on that we refined and further improved our project. Here's more on what that process was like. I would like to state that this was a pretty fun experience! Note that playtesting was done when we had 3 scenes half built. Those three scenes are the Lobby, Corridor and the Lab. The basic interactions had been set up but everything at this point of the project was still pretty janky and needed bob the builder (we fixed it ;>). 
+We got a few of our classmates to playtest and based on that we refined and further improved our project. Here's more on what that process was like. I would like to state that this was a pretty fun experience! Note that playtesting was done when we had 3 scenes half built. Those three scenes are the Lobby, Corridor and the Lab. The basic interactions had been set up but everything at this point of the project was still pretty janky and needed bob the builder (we fixed it ;>). 
 
 ### Playtester: Professor
 

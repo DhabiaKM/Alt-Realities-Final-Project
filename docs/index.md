@@ -64,7 +64,7 @@ In the corridor, the inventor is faced with her past. The corridor consists of h
 
 
 ** Background **
-Background of the scene: the lab scene is the inventor's first encounter with one group of interest — the scientists. The inventor would be greeted by the representative of the scientist group - Joseph, who is also her friend. Joseph would show the hyper-growth concept to the inventor in an attempt to persuade the inventor into supporting the scientists. 
+the lab scene is the inventor's first encounter with one group of interest — the scientists. The inventor would be greeted by the representative of the scientist group - Joseph, who is also her friend. Joseph would show the hyper-growth concept to the inventor in an attempt to persuade the inventor into supporting the scientists. 
 ** Interactions Sequence **
 - Greeted by Joseph: when the inventor enters the lab, Joseph would come over and greet her
 - Follow Joseph and see him talking: after greeting, Joseph would ask the user to follow him over to the lab table. When the user comes, Joseph would introduce her to the concept of hypergrowth.

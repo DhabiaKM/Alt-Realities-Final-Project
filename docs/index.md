@@ -68,7 +68,7 @@ In the corridor, the inventor is faced with her past. The corridor consists of h
 
 ### Scene 3 - The Lab 
 
-![image](https://drive.google.com/uc?export=view&id=1RoAgrhXLfzmQxL8BRFg9bKvRDYzwz5n0)
+![image](https://drive.google.com/uc?export=view&id=1m6hgPpJP3Wz2z-X9wUys8o5UL30rVarJ)
 
 **Background**
 
@@ -89,7 +89,7 @@ the lab scene is the inventor's first encounter with one group of interest — t
 
 ### Scene 4 - The Outside 
 
-![image](https://drive.google.com/uc?export=view&id=1RoAgrhXLfzmQxL8BRFg9bKvRDYzwz5n0)
+![image](https://drive.google.com/uc?export=view&id=1CyNfU4XIZJa50jO-hs9HA9jNZ56W6P14)
 
 **Background**
 
@@ -106,9 +106,10 @@ The outside scene is where the inventor encounters another two groups of people 
 **Implementation**
 
 ![image](https://drive.google.com/uc?export=view&id=1ccskiJUv_zdZbStPFBKqzkL761tBCOfd)
+
 ### Scene 5 - The Lobby Again
 
-![image](https://drive.google.com/uc?export=view&id=1RoAgrhXLfzmQxL8BRFg9bKvRDYzwz5n0)
+![image](https://drive.google.com/uc?export=view&id=1ZRpoB4zOZKtM-iv7nwyNcuELW4un6mDe)
 
 **Background**
 
@@ -119,7 +120,7 @@ The outside scene is where the inventor encounters another two groups of people 
 
 ### Scene 6 - Spaceship Ending 
 
-![image](https://drive.google.com/uc?export=view&id=1RoAgrhXLfzmQxL8BRFg9bKvRDYzwz5n0)
+![image](https://drive.google.com/uc?export=view&id=1G_fs_XQK9gbGLjTQVhNKp25OjR5LnvGQ)
 
 **Background**
 
@@ -130,7 +131,9 @@ The outside scene is where the inventor encounters another two groups of people 
 
 ### Scene 7 - Outside Ending 
 
-![image](https://drive.google.com/uc?export=view&id=1RoAgrhXLfzmQxL8BRFg9bKvRDYzwz5n0)
+
+
+![image](https://drive.google.com/uc?export=view&id=1Z35ihd7PlEjm6Gb4d_rj6vGLfdFL3Hu0)
 
 **Background**
 

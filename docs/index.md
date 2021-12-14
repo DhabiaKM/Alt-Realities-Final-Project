@@ -46,29 +46,29 @@ Our project has 7 scenes in total, each scene is crucial to the
 
 **Background**
 
-**Interactions Sequence **
+**Interactions Sequence**
 
 **Implementation**
 
 
 ### Scene 2 - The Corridor 
 
-**Background **
+**Background**
 
 In the corridor, the inventor is faced with her past. The corridor consists of holographic panels that the inventor encounters, she stands and contemplates over the things that got her to where she is today. The player here is meant to be given as much context as possible in order for them to grasp the kind of person they are in this reality. They are someone important, but beyond that, they have an important choice to make. 
 
-**Interactions Sequence **
+**Interactions Sequence**
 
 **Implementation**
 
 ### Scene 3 - The Lab 
 
 
-**Background **
+**Background**
 
 the lab scene is the inventor's first encounter with one group of interest — the scientists. The inventor would be greeted by the representative of the scientist group - Joseph, who is also her friend. Joseph would show the hyper-growth concept to the inventor in an attempt to persuade the inventor into supporting the scientists. 
 
-**Interactions Sequence **
+**Interactions Sequence**
 
 - Greeted by Joseph: when the inventor enters the lab, Joseph would come over and greet her
 - Follow Joseph and see him talking: after greeting, Joseph would ask the user to follow him over to the lab table. When the user comes, Joseph would introduce her to the concept of hypergrowth.
@@ -83,12 +83,12 @@ the lab scene is the inventor's first encounter with one group of interest — t
 
 ### Scene 4 - The Outside 
 
-**Background **
+**Background**
 
 The outside scene is where the inventor encounters another two groups of people who hold vastly different opinions about the right choice about humankinds' fate. One group is the panicked crowd, who would be running around, shouting or sighing in response to the desperate situation of the Earth. The inventor would see them, but won't interact with them. Another group is the cult, who worship the unknown extraterrestrials, regarding them more as gods who would save humans. The cult would see the inventor and come to her to persuade her into trusting and contacting the aliens. The cult also hate the inventor because the inventor, who herself is also a scientist, is involved in the process of high-tech development at the expense of resources depletion.
 
 
-**Interactions Sequence **
+**Interactions Sequence**
 
     - The inventor teleports to the outside area and sees people running and shouting around
     - Three cults notice the inventor and run to her in sequence
@@ -101,27 +101,27 @@ The outside scene is where the inventor encounters another two groups of people 
 ### Scene 5 - The Lobby 
 
 
-**Background **
+**Background**
 
-**Interactions Sequence **
+**Interactions Sequence**
 
 **Implementation**
 
 
 ### Scene 6 - Spaceship Ending 
 
-**Background **
+**Background**
 
-**Interactions Sequence **
+**Interactions Sequence**
 
 **Implementation**
 
 
 ### Scene 7 - Outside Ending 
 
-**Background **
+**Background**
 
-**Interactions Sequence **
+**Interactions Sequence**
 
 **Implementation**
 

@@ -61,7 +61,7 @@ In the corridor, the inventor is faced with her past. The corridor consists of h
 ** Implementation**
 
 ### Scene 3 - The Lab 
-![image](https://drive.google.com/uc?export=view&id=1RoAgrhXLfzmQxL8BRFg9bKvRDYzwz5n0)
+
 
 ** Background **
 Background of the scene: the lab scene is the inventor's first encounter with one group of interest — the scientists. The inventor would be greeted by the representative of the scientist group - Joseph, who is also her friend. Joseph would show the hyper-growth concept to the inventor in an attempt to persuade the inventor into supporting the scientists. 
@@ -75,21 +75,22 @@ Background of the scene: the lab scene is the inventor's first encounter with on
 
 ** Implementation**
 
+![image](https://drive.google.com/uc?export=view&id=1RoAgrhXLfzmQxL8BRFg9bKvRDYzwz5n0)
 
 ### Scene 4 - The Outside 
 
 ** Background **
 The outside scene is where the inventor encounters another two groups of people who hold vastly different opinions about the right choice about humankinds' fate. One group is the panicked crowd, who would be running around, shouting or sighing in response to the desperate situation of the Earth. The inventor would see them, but won't interact with them. Another group is the cult, who worship the unknown extraterrestrials, regarding them more as gods who would save humans. The cult would see the inventor and come to her to persuade her into trusting and contacting the aliens. The cult also hate the inventor because the inventor, who herself is also a scientist, is involved in the process of high-tech development at the expense of resources depletion.
-Interaction Sequence:
+
+
+** Interactions Sequence **
     - The inventor teleports to the outside area and sees people running and shouting around
     - Three cults notice the inventor and run to her in sequence
     - Three cults start talking to the inventor one after another
     - After they finish talking, run back to their original place and start praying again
-** Interactions Sequence **
-
 ** Implementation**
 
-
+![image](https://drive.google.com/uc?export=view&id=1ccskiJUv_zdZbStPFBKqzkL761tBCOfd)
 ### Scene 5 - The Lobby 
 
 

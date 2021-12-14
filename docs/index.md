@@ -76,7 +76,7 @@ Ray-cast on the holographs in the corridor, >>
 Miss Rainee stated that "The vibe check has been passed". This alludes to the aesthetics of the project being successful in portraying a science fiction setting.  
 
 **Feedback for the Corridor**
-- The shader of the holographs in the corridor makes it hard to read the text. 
+- The shader of the holographs in the corridor makes it hard to read the text and see the picture. 
 - Hand Guide, left hand teleport-er, right hand
 
 **Feedback for the Lab**

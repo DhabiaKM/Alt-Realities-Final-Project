@@ -61,7 +61,7 @@ In the corridor, the inventor is faced with her past. The corridor consists of h
 ** Implementation**
 
 ### Scene 3 - The Lab 
-![image](https://drive.google.com/uc?export=view&id=16VpR4K2rhQbkLpyoNVeSzfbGFW4-U_il)
+![Lab Image](/https://www.clickz.com/wp-content/uploads/2016/06/Screen-Shot-2016-06-24-at-12.15.40.png)
 
 ** Background **
 Background of the scene: the lab scene is the inventor's first encounter with one group of interest — the scientists. The inventor would be greeted by the representative of the scientist group - Joseph, who is also her friend. Joseph would show the hyper-growth concept to the inventor in an attempt to persuade the inventor into supporting the scientists. 
@@ -120,9 +120,7 @@ First, finding the corresponding inspiration. Voxel art seems to be a growing tr
 
 Here are some time lapses of the voxel asset making.
 
-Alongside with handmade assets, we decided to also make our own characters. For that we used Blender, which turned out to be a somewhat convenient 3D asset making tool. We followed this tutorial to make a smooth-looking and minimal character. Once completed, it served as the foundation for other characters used in the whole game.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHOI7UXdkbA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Alongside with handmade assets, we decided to also make our own characters. For that we used Blender, which turned out to be a somewhat convenient 3D asset making tool. We followed this tutorial to make a smooth-looking and minimal character. Once completed, it served as the foundation for other characters used in the whole game. [Here is a timelapse of how the character was made](https://youtu.be/hHOI7UXdkbA).
 
 In reflecting on the Blender experience, a few things immediately come to mind. There was a lot to learn about the concept of vertices and how it is used to create shapes in 3D. So far, going from Shapr3D to voxels, Blender provides the best way to work with forms, and its versatility in both allowing the important and export of a variety of 3D files made a huge impact in our project workflow. But all this did not come without a cost. While it is easy to make smooth shapes in Blender, it is important to keep an eye on the statistics. At the end of our project, we realized that each character had over 200,000 vertices, which created a number of issues when rendering our project in VR. Learning from mistakes, this is definitely a crucial outcome in the asset making experience.
 

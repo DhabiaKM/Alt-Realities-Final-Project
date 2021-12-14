@@ -11,9 +11,6 @@
     - [Scene 5 - The Lobby](#scene-5---the-lobby)
     - [Scene 6 - Spaceship Ending](#scene-6---spaceship-ending)
     - [Scene 7 - Outside Ending](#scene-7---outside-ending)
-      - [Background](#background)
-      - [Interactions Sequence](#interactions-sequence)
-      - [Implementation](#implementation)
   - [Visuals](#visuals)
   - [Audio](#audio)
   - [Process](#process)
@@ -105,11 +102,11 @@ The lab scene is the inventor's second encounter with one group of interest — 
 
 ### Scene 7 - Outside Ending 
 
-#### Background 
+** Background **
 
-#### Interactions Sequence 
+** Interactions Sequence **
 
-#### Implementation
+** Implementation**
 
 
 ## Visuals 

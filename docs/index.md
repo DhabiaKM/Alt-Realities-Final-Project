@@ -162,7 +162,160 @@ Developing a bit on the visuals of each character, we decided to keep things str
 
 
 # Voice Acting Script
+---
 
+**INNER MONOLOGUE:** for all scenes → Joanna 
+
+Hologram Man→ Shamsa 
+
+Joseph → Joseph 
+
+Cultist 1→ Maan 
+
+Cultist 2→ Maan
+
+Cultist 3→ Maan
+
+**Scene 1: Lobby**
+
+**Sounds:** 
+
+- Peaceful Music
+- AC sound
+- Ringing of Teleport
+
+---
+
+Holograph man: Good morning Inventor, do you hear me? I am an informant from the Ministry of Defense. We know you haven't been feeling well, but have you made up your mind on what to do? Are we to go with the extraterrestrials or wait for the scientists to help us out?
+
+**CHOICE:**
+
+Character: I haven't, I am still not sure which direction is the one I should go with.
+
+Character: It does not matter to me, as long as some of us are able to survive.
+
+H.M.: We need to know. We need to prepare. Let us know as soon as you do. The future of mankind lies with you. Everyone's lives are hanging on this. Everyone's.
+
+We remain waiting for you. Don't let us down.
+
+**Internal Monologue[sighs]:** Let me head to the lab, I need to see Joseph.
+
+---
+
+**Scene 2: Corridor**
+
+- A bit more intense music
+
+This is all main character inner monologue. 
+
+1st Panel → I remember this. Life was so much simpler back then. 
+
+2nd Panel → Ah yes, who could forget? The amazing inventor, I thought I could change the world. 
+
+3rd Panel → Will my invention kill us, or will it save us from the horrors of this world? I do not know.
+
+4th Panel → And so, the choice is now mine, the lab should be just ahead. 
+
+---
+
+**Scene 3: Lab**
+
+Sounds: 
+
+- Background Lab noises (we only have one scientist so probably no)
+
+Joseph: Hello inventor! Thank you for making time to see me. I know the situation is pretty messy... The Earth is almost void of its resources, people are in panic, and that crazy cult is not making it any easier for you to choose which way to go.  
+
+Joseph: But listen, all hope is not lost. Science can still save us. Follow me, I want to show you something that we have been working on recently. 
+
+*[Walk to the plant position]*
+
+- IF user not coming over:
+    
+    Joseph1: Please follow me.  
+    
+    Joseph2: Did you hear me? I'm here.
+    
+
+Joseph: Do you remember the hypergrowth concept I presented once at that conference? Well, It's not just a concept anymore. Please look at this.
+
+Joseph: This is the latest progress we've had with our development. That bottle over there, that yellow substance inside it is the heart of it all. I think you should try it for yourself.  
+
+Joseph: Do you see the yellow bottle on the table? Pick up it and pour it inside the blue container beside you. And the robot hand will do the rest for you.
+
+- Pouring interactions
+    
+    Joseph1: No not this one, it's the yellow one
+    
+    Joseph2: Yes, the right bottle. Please pour it into the blue container beside you. 
+    
+    Joseph3: What are you doing? Please pour it into the blue container.
+    
+    Joseph4: See the blue container on the lower part of the robot hand? That's where you should pour.
+    
+    Joseph5: Yes, right place. Pour in the blue container and see how the tube beside you goes.
+    
+
+[Pouring interaction]
+
+Joseph: Did you see? Does this sway your decision at all? 
+
+CHOICE
+
+Response1: This does call for more enthusiasm I have to be honest. 
+
+Response2: We still don't know how many people this can save if it can save anyone at all. 
+
+CHARACTER REACTION
+
+Joseph: It really does, there is still hope to save our planet. 
+
+Joseph: I understand your concern. But is there any certainty whoever you're contacting...these aliens, there is a huge possibility they just kill us all. 
+
+Main Character**:** I think I need to clear my head, I'll go take a walk outside. I will reconsider everything. See you soon, Joseph. 
+
+Joseph: Alright, watch out for the Cult
+
+**Decision Scene**
+
+Joseph: We can do this. Have faith. Inventor we should do what it takes to save our home. 
+
+---
+
+**Scene4: Outside**
+
+Sounds: 
+
+- People screaming
+- Weird Chants
+- Weird Scary Music
+- Spaceship decision - with response if possible
+
+Cult Member 1: Look who it is! Our great inventor! Thank you for finally gracing us! It is finally your time to shine. Everything you have worked for. Call upon the divine ones to rescue us. 
+
+Cult Member 2: Hey inventor look here! Look how far science has brought us! We'll all die before science comes up with anything to save yes! Call upon them! 
+
+Cult Member 3:  The divine will come and they shall rescue us! Make the right choice. Save us! Future generations will hail you as our savior. 
+
+Cult Member 1: Please make your choice as soon as possible. The divine can't wait that long.
+
+**Internal Monologue:**  
+
+I need to clear my head. My room... I need to go back to my room. 
+
+[Scene transitions back to scene 1 where the inventor has to make her choice] 
+
+Final Decision Scene
+
+Cult member: what are you hesitating for? Scientists are always doing bad things. Only the divine could save us!
+
+**Scene 5 and 6**
+
+Main Character [Pondering]: 
+
+Scene 5→ Was this the right choice? I wonder what will happen to us all. Still, some of us are here, that should be good enough for me. 
+
+Scene 6 → And so on our Earth we remain. This is the safest bet, I will work with Joseph to make this place better for us all. My goal is to hand everyone a better future and not just a select few.
 
 ```
 

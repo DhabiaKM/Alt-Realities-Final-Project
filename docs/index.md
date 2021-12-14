@@ -1,4 +1,5 @@
 # Faith (in)Humanity Documentation 
+Dhabia AlMansoori - Hu Yiwen - Ilya Akimov
 ## Table of Contents
 - [Faith (in)Humanity Documentation](#faith-inhumanity-documentation)
   - [Table of Contents](#table-of-contents)
@@ -30,6 +31,7 @@
   - [Reflection and Final Thoughts](#reflection-and-final-thoughts)
     - [What Was](#what-was)
     - [What Could Have Been](#what-could-have-been)
+    - [Overall Thoughts](#overall-thoughts)
 
 
 
@@ -37,11 +39,11 @@
 
 Our project is inspired by the popular science fiction novel *The Three-Body Problem*, its plot focuses on extraterrestrial forces that are trying to destroy Earth. Our take on it, however, was not to replicate the storyline nor the idea itself but rather zoom into the people aspect of the story. In our alternate reality, humanity is left with a decision that seems to be more of a coin toss, neither end being clear. 
 
-How would different people react to the realization that everything that they once knew might just collapse? Some people will try to persist and fight the idea that 
+How would different people react to the realization that everything that they know might just collapse and be taken away based on the decision that someone will make? Some people will try to persist and fight the idea that they ever have to leave this planet. Others will turn to faith, and believe that escape is their only option. And some might just lose their minds and run around screaming. 
 
-We didn't replicate that story, rather we found that people's different reactions to doomsday interesting. Some people are calm and trying to find solutions, some people are in panic and some people are even worshiping the aliens. To dramatize the story, we want to showcase various interests of the group and present to the user the important decision to make that would determine the fate of humankind. 
+Our goal was to create a playable experience through which the user goes through the motions of meeting and interacting with these waves of people knowing that their futures rested on their shoulders. 
 
-Check out our initial project proposal here: https://sparkling-nautilus-311.notion.site/Faith-in-humanity-ab99d8ba52ea4b9bb679535204325db3
+Check out our initial project proposal here: [Link](https://sparkling-nautilus-311.notion.site/Faith-in-humanity-ab99d8ba52ea4b9bb679535204325db3) 
 
 ## Finalized Story 
 
@@ -176,10 +178,17 @@ Honorable mention. This is part of the XR screen and it's appears in between loa
 The inventor wakes up here. This scene has a futuristic setting, cool colors reflect the personality and status of the inventor. After a short period of time a message plays in which the inventor receives a message from the government. In this room are several things that are crucial to the story, some of which include: posters on the wall for context, books and newspaper the user may choose to hold and read (context on what is happening outside). There is also a TV that is playing a video compilation of natural disasters. 
 
 **Interactions Sequence**
+    - The user wakes up on the bed, for a few seconds they can move around, explore their setting
+    - A message starts and the button on the table starts blinking
+    - Once you push the button, a holograph message starts playing (talking animation) and when it's done, the animation stops and a dialogue controller option appears 
+    - User makes a choice, the other option disappears and the main character speaks
+    - The holograph responds, then by an internal monologue the user is prompted to go into the teleporter (also it blinks to make it more attractive for the user to walk through)
 
 
 **Implementation**
-Th
+The blinking of the button stops as soon as a boolean variable wasPressed turns true. This triggers the holograph message and starts a coroutine that waits for the audio to be over before setting on the dialogue controller (a canvas). Once the user presses a button on the canvas, a boolean called choice made triggers the main character's response, waits for it to be over and starts the hologram's second part (response to user response), it waits for that message to be over before setting the hologram character inactive. There were some issues in this scene with where to call what since at points audio was being called every frame which meant it wasn't being heard. Debugging this scene was a lot of fun! 
+
+
 ### Scene 2 - The Corridor 
 
 ![image](https://drive.google.com/uc?export=view&id=1WgtXSW0XS11F_2-vwS9b12Hk_KxbfAp6)
@@ -404,8 +413,6 @@ Developing a bit on the visuals of each character, we decided to keep things str
 ### Human Audio: The Script and Voice Acting
 
 ```markdown
-
-
 
 # Voice Acting Script
 ---
@@ -641,14 +648,16 @@ We ended up taking much of the feedback given on playtesting day and rolling wit
 Here are some of the challenges that we faced while working on this project. To say there were more than a few is an understatement.
 
 ### Technical Challenges
-Our project is animation and interaction heavy. The hard part is not only about the detailed scripting logic, but also about linking everything together (animation, scripts, shaders, particles, etc). There are many details in each step that would require logics and systematic thinking to keep track of everything. Also, the Awake(), Start(), Update() and Coroutines should be considered carefully before using them because they're directly related to the frames and would directly impact the visual effects. Take the pouring interaction and plant growing animation as an example. The steps are explained in detail as follows:
+Our project is animation and interaction heavy. The hard part is not only about the detailed scripting logic, but also about linking everything together (animation, scripts, shaders, particles, etc). There are many details in each step that would require logics and systematic thinking to keep track of everything. Also, the Awake(), Start(), Update() and Coroutines should be considered carefully before using them because they're directly related to the frames and would directly impact the visual effects. 
+
+Take the pouring interaction and plant growing animation as an example. The steps are explained in detail as follows:
 
 ![image](https://drive.google.com/uc?export=view&id=1Glc1vsbDy7q0EN0GSm-XLmFGlZoG4J39)
 
 
-There are actually far more details than described above, like how much/fast the particles move, how to make the particles move within a certain boundary and when to kill them. Also, whether to update the animation in Update() or in a Coroutine would also impact the visual effects. There are a lot of detailed manipulations about the parameters to make them work as a whole. 
+There are actually far more details than described above, like how much/fast the particles move, how to make the particles move within a certain boundary and when to kill them. Also, whether to update the animation in Update() or in a Coroutine would also impact the visual effects. There are a lot of detailed manipulations about the parameters to make them work as a whole. We also had a lot of issues with small missing elements or steps that would take us HOURS to figure out (ie. accidentally deleting a rigid body).
 
-Another technical challenge we ran into was related to our characters. We had character that we would've loved to used but because of how high-poly they were, they destroyed the oculus' performance causing us to have to choose to let them go. 
+Another technical challenge we ran into was related to our characters. We had character that we would've loved to use but because of how high-poly they were, they destroyed the oculus' performance causing us to have to choose to let them go. 
 
 One last one to mention was implementing the dialogue, we did waste a week trying to integrate ink, when going with a much more simpler hardcoded option was more than sufficient enough for our project.
 
@@ -669,9 +678,7 @@ Another storytelling challenge also came with the two ending scenes, we already 
 ## Reflection and Final Thoughts
 
 ### What Was
-Any final thoughts: what we've achieved, what we could improve
-
-Given the time limit, division of work, technical difficulty, and the giant content of the project itself, we think have successfully achieved the storytelling, world-building, and interactions requirements. The story is a complete and playable one, and the animations, sound, and interactions are well integrated to ensure an immersive experience. The expectations of user behavior are also well manipulated to guarantee the fourth wall experience.
+The project was a success on demo day! The professor was able to run through six scenes (he had to make one choice) smoothly and the experience seems to have the effect that we hoped it would. Our user is presented with a moral dilemma that they must follow through with and choose. Neutrality was never an option hehe. Given the time limit, division of work, technical difficulties, and the giant content of the project itself, we think have successfully achieved the storytelling, world-building, and interactions requirements. The story is a complete and playable one, and the animations, sound, and interactions are well integrated to ensure an immersive experience. The expectations of user behavior are also well manipulated to guarantee the fourth wall experience.
 
 While we have tried our best to achieve the best possible project within the short time limit, there's still much to improve to enhance the user experience. 
 
@@ -680,30 +687,8 @@ Things we would've implemented if we had more time:
 
 1. More autonomous agents and background storytelling: our visuals, for now, are  simple, there are so many details that could be added to enhance our world-building. Also for the NPCs, the world would be more more lively if there were more NPCs from various groups of interests trying to persuade the user into a certain decision.
 2. More about the ending scenes: due to the time limit we leave the ending scenes up to the user's imagination. But if we build more about the ending scenes the story would be more dramatic. 
-3. More sound effects: sounds could play a large role in storytelling. We could add more dramatic sound if we have time so as to add more life to the story.
+3. More sound effects: sounds could play a large role in storytelling. Footsteps, the wind, rain were all things we could've worked into the project but ultimately decided not to due to time. 
 
+### Overall Thoughts
 
-
-
-
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
+A lot was learned about unity in this project, we achieved so many things that we probably would've found very difficult (probably impossible) on our first day in this class. Unity is a powerful tool that we will probably keep using in our future projects! Aside from technical aspects, implementing visuals and working on patching together 3D environments that users will actually be transported into has been... an experience (real life metrics do matter, can't have things looking too big or small if it's not VR Alice in Wonderland)! Overall what we've learned from this is that it takes a village to raise a video game experience into something playable. The joy was in the journey but it feels really nice to finally arrive at the destination and put down our metaverse hats! Cheers! <3 :> 

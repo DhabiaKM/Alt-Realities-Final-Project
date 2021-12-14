@@ -411,7 +411,7 @@ Developing a bit on the visuals of each character, we decided to keep things str
 ---
 
 ## Actors 
-**INNER MONOLOGUE:** for all scenes → Joanna 
+**INNER MONOLOGUE AND MAIN CHARACTER:** for all scenes → Joanna 
 
 Hologram Man→ Shamsa 
 

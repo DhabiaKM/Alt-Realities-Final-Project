@@ -164,6 +164,7 @@ Developing a bit on the visuals of each character, we decided to keep things str
 # Voice Acting Script
 ---
 
+## Actors 
 **INNER MONOLOGUE:** for all scenes → Joanna 
 
 Hologram Man→ Shamsa 
@@ -178,8 +179,7 @@ Cultist 3→ Maan
 
 **Scene 1: Lobby**
 
-**Sounds:** 
-
+Sounds: 
 - Peaceful Music
 - AC sound
 - Ringing of Teleport
@@ -204,7 +204,8 @@ We remain waiting for you. Don't let us down.
 
 **Scene 2: Corridor**
 
-- A bit more intense music
+Sounds: 
+- Sad nostalgiac music
 
 This is all main character inner monologue. 
 
@@ -320,6 +321,8 @@ Scene 6 → And so on our Earth we remain. This is the safest bet, I will work w
 ```
 
 ### NonHuman Audio: Background Music and co. 
+
+
 
 ## Playtesting 
 

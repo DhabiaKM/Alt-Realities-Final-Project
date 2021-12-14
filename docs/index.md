@@ -707,6 +707,7 @@ Developing a bit on the visuals of each character, we decided to keep things str
 ```markdown
 
 
+
 # Voice Acting Script
 ---
 
@@ -867,6 +868,26 @@ Scene 6 → And so on our Earth we remain. This is the safest bet, I will work w
 ```
 
 ### NonHuman Audio: Background Music and co. 
+
+
+**Background music**
+
+We experimented with different background music (royalty free) for each scene. 
+
+Here is what we achieved! 
+
+Lobby -> Ambient Music, Calm
+
+Corridor -> Invoke emotion, nostalgia 
+
+Lab -> Calm, Also Ambient (same as lobby)
+
+Outside -> Epic, but unsettling tracks 
+
+Endings: 
+- Outside Ending: Hopeful music 
+- Spaceship Ending: Calm yet uncertain, music that evokes the feeling of going on a journey with no end destination 
+
 
 
 

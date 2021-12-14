@@ -36,11 +36,11 @@ How would different people react to the realization that everything that they on
 
 We didn't replicate that story, rather we found that people's different reactions to doomsday interesting. Some people are calm and trying to find solutions, some people are in panic and some people are even worshiping the aliens. To dramatize the story, we want to showcase various interests of the group and present to the user the important decision to make that would determine the fate of humankind. 
 
-Check out our inital project proposal here: https://sparkling-nautilus-311.notion.site/Faith-in-humanity-ab99d8ba52ea4b9bb679535204325db3
+Check out our initial project proposal here: https://sparkling-nautilus-311.notion.site/Faith-in-humanity-ab99d8ba52ea4b9bb679535204325db3
 
 ## Finalized Story 
 
-Note: This was the very first draft of our storyline, it is amazing looking back and seeing how much of this stuff we actually managed to build and achieve. The writing is a bit more dramatic than the game ended up being but regradless, seeing a story we wrote come to life and reflecting back on the process of creating and building it feels very good. 
+Note: This was the very first draft of our storyline, it is amazing looking back and seeing how much of this stuff we actually managed to build and achieve. The writing is a bit more dramatic than the game ended up being but regardless, seeing a story we wrote come to life and reflecting back on the process of creating and building it feels very good. 
 
 Scene 1: **And From God's Cradle You Emerge.**
 
@@ -82,7 +82,7 @@ She is now in a lab, one that she used to work in a really long time ago. Her ey
 
 "Inventor, over here." 
 
-A high school friend of hers, Joseph, calls out to her from the back. The inventor walks over to him, relieved that at least someone she knows is alive. Her scientist friend begins to talk immediately as she gets to him, he goes on and on about new findings that could save the planet. Nanoparticles, plants, soil, the inventor finds herself getting lost. 
+A high school friend of hers, Joseph, calls out to her from the back. The inventor walks over to him, relieved that at least someone she knows is alive. Her scientist friend begins to talk immediately as she gets to him, he goes on and on about new findings that could save the planet. Nano-particles, plants, soil, the inventor finds herself getting lost. 
 
 The scientist decides to stop explaining and show her instead. They both move to a round table, the scientist starts explaining the steps, and the inventor executes them. She scoops the soil, placing it in a basin, and then pouring the chemicals from the long test tubes. 
 
@@ -193,7 +193,7 @@ the lab scene is the inventor's first encounter with one group of interest — t
 **Interactions Sequence**
 
     - Greeted by Joseph: when the inventor enters the lab, Joseph would come over and greet her
-    - Follow Joseph and see him talking: after greeting, Joseph would ask the user to follow him over to the lab table. When the user comes, Joseph would introduce her to the concept of hypergrowth.
+    - Follow Joseph and see him talking: after greeting, Joseph would ask the user to follow him over to the lab table. When the user comes, Joseph would introduce her to the concept of hyper-growth.
     - Pour the bottle: Joseph would instruct the inventor to pick up the yellow bottle on the table and pour it inside the blue container on the robot's hand.
     - See the plant grow: after the inventor successfully pours into the blue container, the inventor would see a pump transferring the yellow chemicals into the tube, and the plant will grow.
     - Respond to Joseph: after the inventor sees the plant growing quickly, Joseph will ask her if such an effect has changed her mind. Then a UI would appear asking the inventor to respond (has two options). Joseph would respond accordingly.
@@ -263,7 +263,7 @@ The aesthetic of our game aimed to revolve around a voxel world, where the envir
 To achieve this, the work was broken down into several parts.
 First, finding the corresponding inspiration. Voxel art seems to be a growing trend in the 3D art community lately, and it consequently was easy to find good looking references on Behance to get a feel for how voxel spaces could look like in VR. More specifically, we took inspiration from some of the works from [this artist on Behance](https://www.behance.net/joannan/).
 
-Our voxel scenes were made with VoxelMax, an iPad app. This process quickly turned out to be meticulous, as each block mattered, and there were considerbly less geometric guidance compared to other apps like Shapr3D. However, using voxels instantly gave each asset a unique gamy-feel, which ensured that things could be brought together in cohesion. Here are a few timelapses of the assets making: [Corridor scene](https://youtu.be/r7x9g2Irfsc)  |  [Lab scene](https://youtu.be/rpq_jVUein4)  |  [Space ship scene](https://youtu.be/ReEonKyajRU)
+Our voxel scenes were made with VoxelMax, an iPad app. This process quickly turned out to be meticulous, as each block mattered, and there were considerably less geometric guidance compared to other apps like Shapr3D. However, using voxels instantly gave each asset a unique gamy-feel, which ensured that things could be brought together in cohesion. Here are a few timelapses of the assets making: [Corridor scene](https://youtu.be/r7x9g2Irfsc)  |  [Lab scene](https://youtu.be/rpq_jVUein4)  |  [Space ship scene](https://youtu.be/ReEonKyajRU)
 
 
 Alongside with handmade assets, we decided to also make our own characters. For that we used Blender, which turned out to be a somewhat convenient 3D asset making tool. We followed [this tutorial](https://youtu.be/tzt55UfljGA) to make a smooth-looking and minimal character. Once completed, it served as the foundation for other characters used in the whole game. [Here is a timelapse of how the character was made](https://youtu.be/hHOI7UXdkbA).
@@ -324,7 +324,7 @@ We remain waiting for you. Don't let us down.
 **Scene 2: Corridor**
 
 Sounds: 
-- Sad nostalgiac music
+- Sad nostalgic music
 
 This is all main character inner monologue. 
 
@@ -357,7 +357,7 @@ Joseph: But listen, all hope is not lost. Science can still save us. Follow me, 
     Joseph2: Did you hear me? I'm here.
     
 
-Joseph: Do you remember the hypergrowth concept I presented once at that conference? Well, It's not just a concept anymore. Please look at this.
+Joseph: Do you remember the hyper-growth concept I presented once at that conference? Well, It's not just a concept anymore. Please look at this.
 
 Joseph: This is the latest progress we've had with our development. That bottle over there, that yellow substance inside it is the heart of it all. I think you should try it for yourself.  
 

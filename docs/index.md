@@ -7,12 +7,31 @@
       - [Interactions Sequence](#interactions-sequence)
       - [Implementation](#implementation)
     - [Scene 2 - The Corridor](#scene-2---the-corridor)
+      - [Background](#background-1)
+      - [Interactions Sequence](#interactions-sequence-1)
+      - [Implementation](#implementation-1)
     - [Scene 3 - The Lab](#scene-3---the-lab)
+      - [Background](#background-2)
+      - [Interactions Sequence](#interactions-sequence-2)
+      - [Implementation](#implementation-2)
     - [Scene 4 - The Outside](#scene-4---the-outside)
+      - [Background](#background-3)
+      - [Interactions Sequence](#interactions-sequence-3)
+      - [Implementation](#implementation-3)
     - [Scene 5 - The Lobby](#scene-5---the-lobby)
+      - [Background](#background-4)
+      - [Interactions Sequence](#interactions-sequence-4)
+      - [Implementation](#implementation-4)
     - [Scene 6 - Spaceship Ending](#scene-6---spaceship-ending)
+      - [Background](#background-5)
+      - [Interactions Sequence](#interactions-sequence-5)
+      - [Implementation](#implementation-5)
     - [Scene 7 - Outside Ending](#scene-7---outside-ending)
+      - [Background](#background-6)
+      - [Interactions Sequence](#interactions-sequence-6)
+      - [Implementation](#implementation-6)
   - [Visuals](#visuals)
+  - [Audio](#audio)
   - [Process](#process)
   - [Playtesting](#playtesting)
     - [Playtester: Professor](#playtester-professor)
@@ -49,22 +68,67 @@ Our project has 7 scenes in total, each scene is crucial to the
 #### Implementation
 
 
-
 ### Scene 2 - The Corridor 
+
+#### Background 
+
+#### Interactions Sequence 
+
+#### Implementation
+
 
 ### Scene 3 - The Lab 
 
+Background of the scene: the lab scene is the inventor's first encounter with one group of interest — the scientists. The inventor would be greeted by the representative of the scientist group - Joseph, who is also her friend. Joseph would show the hyper-growth concept to the inventor in an attempt to persuade the inventor into supporting the scientists. 
+
+#### Background 
+
+#### Interactions Sequence 
+
+#### Implementation
+
+
 ### Scene 4 - The Outside 
+
+#### Background 
+
+#### Interactions Sequence 
+
+#### Implementation
+
 
 ### Scene 5 - The Lobby 
 
+
+#### Background 
+
+#### Interactions Sequence 
+
+#### Implementation
+
+
 ### Scene 6 - Spaceship Ending 
 
+#### Background 
+
+#### Interactions Sequence 
+
+#### Implementation
+
+
 ### Scene 7 - Outside Ending 
+
+#### Background 
+
+#### Interactions Sequence 
+
+#### Implementation
+
 
 ## Visuals 
 
 
+## Audio 
 
 ## Process 
 

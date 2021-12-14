@@ -3,6 +3,9 @@
   - [Our Inspiration and Initial Idea](#our-inspiration-and-initial-idea)
   - [Scenes](#scenes)
     - [Scene 1 - The Lobby](#scene-1---the-lobby)
+      - [Background](#background)
+      - [Interactions Sequence](#interactions-sequence)
+      - [Implementation](#implementation)
     - [Scene 2 - The Corridor](#scene-2---the-corridor)
     - [Scene 3 - The Lab](#scene-3---the-lab)
     - [Scene 4 - The Outside](#scene-4---the-outside)
@@ -28,7 +31,7 @@
 
 Our project is inspired by the popular science fiction novel *The Three-Body Problem*, its plot focuses on extraterrestrial forces that are trying to destroy Earth. Our take on it, however, was not to replicate the storyline nor the idea itself but rather zoom into the people aspect of the story. In our alternate reality, humanity is faced with an extreme 
 
-How would different people react to the realization that everything that they once knew might just collapse? Some people will try to presist and fight the idea that 
+How would different people react to the realization that everything that they once knew might just collapse? Some people will try to persist and fight the idea that 
 
 We didn't replicate that story, rather we found that people's different reactions to doomsday interesting. Some people are calm and trying to find solutions, some people are in panic and some people are even worshiping the aliens. To dramatize the story, we want to showcase various interests of the group and present to the user the important decision to make that would determine the fate of humankind. 
 
@@ -38,6 +41,14 @@ We didn't replicate that story, rather we found that people's different reaction
 Our project has 7 scenes in total, each scene is crucial to the 
 
 ### Scene 1 - The Lobby 
+
+#### Background 
+
+#### Interactions Sequence 
+
+#### Implementation
+
+
 
 ### Scene 2 - The Corridor 
 
@@ -102,12 +113,13 @@ Fix the textures
 - More time to read
 - Shader
 - Fix the light in the lobby
-- Make it more clear to user the raycast for the holograms
+- Make it more clear to user the ray-cast for the holograms
 
 
 ## Challenges 
 
-Here are some of the challanges that we faced while working on this project. To say there were more than a few is an understatement.
+Here are some of the challenges that we faced while working on this project. To say there were more than a few is an understatement.
+
 
 ### Technical Challenges
 

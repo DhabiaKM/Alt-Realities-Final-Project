@@ -1,3 +1,4 @@
+# Faith (in)Humanity Documentation 
 
 - [Faith (in)Humanity Documentation](#faith-inhumanity-documentation)
   - [Our Inspiration and Initial Idea](#our-inspiration-and-initial-idea)
@@ -43,7 +44,6 @@
     - [Storytelling](#storytelling)
   - [Reflection and Final Thoughts](#reflection-and-final-thoughts)
 
-# Faith (in)Humanity Documentation 
 
 
 ## Our Inspiration and Initial Idea

@@ -5,6 +5,7 @@
   - [Our Inspiration and Initial Idea](#our-inspiration-and-initial-idea)
   - [Finalized Story](#finalized-story)
   - [Process of Building the Scenes](#process-of-building-the-scenes)
+    - [Scene 0 - The Loading Screen](#scene-0---the-loading-screen)
     - [Scene 1 - The Lobby](#scene-1---the-lobby)
     - [Scene 2 - The Corridor](#scene-2---the-corridor)
     - [Scene 3 - The Lab](#scene-3---the-lab)
@@ -160,7 +161,11 @@ Recovering scene (stays on earth) → trees growing, clear sky
 
 ## Process of Building the Scenes
 
-Our project has 7 scenes in total, each scene is crucial to the 
+Our project has 7 scenes in total, each scene is crucial to the story line! 
+
+### Scene 0 - The Loading Screen 
+
+Honorable mention. This is part of the XR screen and it's appears in between loading/unloading scenes in order to not have the user trapped in complete darkness. 
 
 
 ### Scene 1 - The Lobby 
@@ -168,12 +173,14 @@ Our project has 7 scenes in total, each scene is crucial to the
 ![image](https://drive.google.com/uc?export=view&id=14S5KHsocPyrCl7GdYa0iaVq8ZkZoJedZ)
 
 **Background**
+The inventor wakes up here. This scene has a futuristic setting, cool colors reflect the personality and status of the inventor. After a short period of time a message plays in which the inventor receives a message from the government. In this room are several things that are crucial to the story, some of which include: posters on the wall for context, books and newspaper the user may choose to hold and read (context on what is happening outside). There is also a TV that is playing a video compilation of natural disasters. 
 
 **Interactions Sequence**
 
+
 **Implementation**
 
-
+    - Massage Plays 
 ### Scene 2 - The Corridor 
 
 ![image](https://drive.google.com/uc?export=view&id=1WgtXSW0XS11F_2-vwS9b12Hk_KxbfAp6)
@@ -244,7 +251,7 @@ In this scene the inventor comes back to the lobby for the final decision.
     - Once the Messages are done playing, the characters disappear and the dialogue screen appears. The user makes their choice. 
     
 **Implementation**
-There is no teleportation area, the user is stuck on an anchor in front of the table. The dialogue action and the animation of the characters was pretty similar to the first scene, except here we used nested coroutines to trigger the character's messages in order, one after the next. As soon as the button gets pressed by the user, the following coroutine is triggered: 
+There is no teleportation area, the user is stuck on an anchor in front of the table. The dialogue action and the animation of the characters was pretty similar to the first scene, except here we used nested coroutines to trigger the character's messages in order, one after the next. As soon as the button gets pressed by the user, the following coroutine is triggered (snippet from HologramControllerFinal.cs): 
 
 ```markdown
 
@@ -292,11 +299,46 @@ There is no teleportation area, the user is stuck on an anchor in front of the t
 ![image](https://drive.google.com/uc?export=view&id=1Z35ihd7PlEjm6Gb4d_rj6vGLfdFL3Hu0)
 
 **Background**
+The user ends up here if they choose to contact the aliens instead of staying on earth. 
 
 **Interactions Sequence**
+There are no interactions here, just a teleportation area and inner-monologue that plays, followed by a defined period of silence before the application quits. 
 
 **Implementation**
 
+This is the code that powers the ending scenes. Very simple, but also very effective at doing the job! Code snippet from QuitGame.cs
+```markdown 
+
+public class QuitGame : MonoBehaviour
+{
+    public AudioSource LastLine; 
+    // Start is called before the first frame update
+    void Start()
+    {
+        StartCoroutine(LetMeBreathe()); 
+        StartCoroutine(GoodbyeBois());
+        
+    }
+
+    // Update is called once per frame
+    IEnumerator GoodbyeBois(){ 
+        yield return new WaitForSeconds(30); 
+        Application.Quit(); 
+
+    }
+    IEnumerator LetMeBreathe(){ 
+        yield return new WaitForSeconds(6); 
+        LastLine.Play(); 
+        yield return new WaitForSeconds(LastLine.clip.length); 
+        
+
+
+    }
+
+    
+}
+
+```
 
 ### Scene 7 - Outside Ending 
 
@@ -304,11 +346,13 @@ There is no teleportation area, the user is stuck on an anchor in front of the t
 ![image](https://drive.google.com/uc?export=view&id=1G_fs_XQK9gbGLjTQVhNKp25OjR5LnvGQ)
 
 **Background**
+The user ends up here if they choose to stay on earth. This scene visually is very similar to the outside scene except the music is more hopeful and the sky is blue, and more welcoming. 
 
 **Interactions Sequence**
+There are no interactions here, just a teleportation area and inner-monologue that plays, followed by a defined period of silence before the application quits. 
 
 **Implementation**
-
+Exactly the same as scene six :> 
 
 ## Visuals 
 The aesthetic of our game aimed to revolve around a voxel world, where the environment is pixelated and objects are in remote resemblance to Minecraft.
@@ -575,6 +619,8 @@ Our project is animation and interaction heavy. The hard part is not only about 
 There are actually far more details than described above, like how much/fast the particles move, how to make the particles move within a certain boundary and when to kill them. Also, whether to update the animation in Update() or in a Coroutine would also impact the visual effects. There are a lot of detailed manipulations about the parameters to make them work as a whole. 
 
 Another technical challenge we ran into was related to our characters. We had character that we would've loved to used but because of how high-poly they were, they destroyed the oculus' performance causing us to have to choose to let them go. 
+
+One last one to mention was implementing the dialogue, we did waste a week trying to integrate ink, when going with a much more simpler hardcoded option was more than sufficient enough for our project.
 
 ### Expecting User Behavior
 

@@ -54,18 +54,23 @@ Our project has 7 scenes in total, each scene is crucial to the
 ### Scene 2 - The Corridor 
 
 ** Background **
-
+In the corridor, the inventor is faced with her past. The corridor consists of holographic panels that the inventor encounters, she stands and contemplates over the things that got her to where she is today. The player here is meant to be given as much context as possible in order for them to grasp the kind of person they are in this reality. They are someone important, but beyond that, they have an important choice to make. 
 ** Interactions Sequence **
-
+- The inventor 
 ** Implementation**
 
 ### Scene 3 - The Lab 
 
-Background of the scene: the lab scene is the inventor's first encounter with one group of interest — the scientists. The inventor would be greeted by the representative of the scientist group - Joseph, who is also her friend. Joseph would show the hyper-growth concept to the inventor in an attempt to persuade the inventor into supporting the scientists. 
-
 ** Background **
+The lab scene is the inventor's second encounter with one group of interest — the scientists. The inventor would be greeted by the representative of the scientist group - Joseph, who is also her friend. Joseph would show the hyper-growth concept to the inventor in an attempt to persuade the inventor into supporting the scientists. 
 
 ** Interactions Sequence **
+- Greeted by Joseph: when the inventor enters the lab, Joseph would come over and greet her
+- Follow Joseph and see him talking: after greeting, Joseph would ask the user to follow him over to the lab table. When the user comes, Joseph would introduce her to the concept of hypergrowth.
+- Pour the bottle: Joseph would instruct the inventor to pick up the yellow bottle on the table and pour it inside the blue container on the robot's hand.
+- See the plant grow: after the inventor successfully pours into the blue container, the inventor would see a pump transferring the yellow chemicals into the tube, and the plant will grow.
+- Respond to Joseph: after the inventor sees the plant growing quickly, Joseph will ask her if such an effect has changed her mind. Then a UI would appear asking the inventor to respond (has two options). Joseph would respond accordingly.
+- Leave the lab: the inventor received enough information and would like to take a walk outside to clear her head. Joseph would say goodbye to her and the inventor would go to the teleport portal and teleport to the outside world.
 
 ** Implementation**
 
@@ -112,21 +117,20 @@ Background of the scene: the lab scene is the inventor's first encounter with on
 
 ## Audio 
 
+The audio for the project was comprised of 
+
 ## Process 
 
 
-hi
 ## Playtesting 
 
-I got a few of our classmates to playtest and based on that we refined and further improved our project. Here's more on what that process was like. I would like to state that this was a pretty fun experience! Note that playtesting was done when we had 3 scenes half built. Those three scenes are the Lobby, Corridor and the Lab. The basic interactions had been set up but everything at this point of the project was still pretty janky and needed bob the builder (we fixed it ;>). 
+We got a few of our classmates to playtest and based on that we refined and further improved our project. Here's more on what that process was like. This was a pretty fun experience! Note that playtesting was done when we had 3 scenes half built. Those three scenes are the Lobby, Corridor and the Lab. The basic interactions had been set up but everything at this point of the project was still pretty janky and needed bob the builder (we fixed it ;>). 
 
 ### Playtester: Professor
 
-Citizen Kane → Newspaper montage. 
-
-Disappearing/Appearing and have a laser sound (scale up, flash on), move towards you
-
-Ray-cast on the holographs in the corridor, >> 
+**Feedback for the Corridor**
+- Disappearing/Appearing and have a laser sound (scale up, flash on), move towards you
+- Ray-cast on the holographs in the corridor.  
 
 ### Playtester: Rainee 
 
@@ -137,21 +141,18 @@ Miss Rainee stated that "The vibe check has been passed". This alludes to the ae
 - Hand Guide, left hand teleport-er, right hand
 
 **Feedback for the Lab**
-
-Guiding the user around needs to work just a little bit better 
-
-Joseph's voice needs to be higher 
-
-Make him pause before telling us to play around by ourselves 
-
-Fix the textures 
+- Guiding the user around needs to work just a little bit better 
+- Joseph's voice needs to be higher 
+- Make him pause before telling us to play around by ourselves 
+- Fix the textures 
 
 ### Playtester: Ons
 
+**Feedback for the Corridor**
 - Door how to open
 - Corridor goes away too fast
 - Fixing how the doctor acts basically
-- XR scene fix
+- XR scene transitions are incomplete 
 - More time to read
 
 ### Playtester: Marta 

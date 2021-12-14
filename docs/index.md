@@ -21,6 +21,7 @@
     - [Playtester: Rainee](#playtester-rainee)
     - [Playtester: Ons](#playtester-ons)
     - [Playtester: Marta](#playtester-marta)
+    - [Takeaways and Reflection](#takeaways-and-reflection)
   - [Challenges](#challenges)
     - [Technical Challenges](#technical-challenges)
     - [Expecting User Behavior](#expecting-user-behavior)
@@ -452,11 +453,10 @@ We got a few of our classmates to playtest and based on that we refined and furt
 
 ### Playtester: Professor
 
-Citizen Kane → Newspaper montage. 
-
-Disappearing/Appearing and have a laser sound (scale up, flash on), move towards you
-
-Ray-cast on the holographs in the corridor, >> 
+Citizen Kane → Newspaper montage.
+**Feedback for the Corridor**
+- Disappearing/Appearing and have a laser sound (scale up, flash on), move towards you
+- Ray-cast on the holographs in the corridor, >> 
 
 ### Playtester: Rainee 
 
@@ -468,13 +468,10 @@ Miss Rainee stated that "The vibe check has been passed". This alludes to the ae
 
 **Feedback for the Lab**
 
-Guiding the user around needs to work just a little bit better 
-
-Joseph's voice needs to be higher 
-
-Make him pause before telling us to play around by ourselves 
-
-Fix the textures 
+- Guiding the user around needs to work just a little bit better 
+- Joseph's voice needs to be higher 
+- Make him pause before telling us to play around by ourselves 
+- Fix the textures 
 
 ### Playtester: Ons 
 
@@ -492,11 +489,16 @@ Fix the textures
 - Make it more clear to user the ray-cast for the holograms
 
 
+### Takeaways and Reflection 
+
+We ended up taking much of the feedback given on playtesting day and rolling with it! The professor's suggestion for the corridor were implemented, as well as longer time for the holographs from Ons. We also drastically changed the way the scientist acted, and the issue with his voice being too low disappeared once we had our human voice actor's lines! 
+
 ## Challenges 
 
 Here are some of the challenges that we faced while working on this project. To say there were more than a few is an understatement.
 
 ### Technical Challenges
+
 
 ### Expecting User Behavior
 
@@ -504,8 +506,7 @@ Here are some of the challenges that we faced while working on this project. To 
 
 ### Storytelling Challenges 
 
-Our project was a very ambitious one, totally at 7 scenes that the user experiences. The challenges appeared soon after, when we realized the considerable amount of work that we had to pour into each scene to make it work in the grander scheme of the tale itself. We had to find a way to deliver a playable experience to the users taking into account our time and skill restraints. The user initially was meant to feel small and hopeless, not knowing what to decide. Instead we twisted in a way that would form a more empowered user, one that is aware of what is happening and confident of the power that they are given. 
-Our focus was to have the player listen to all the different voices before making the decision. When the time comes, the user sees those same voices, reminded of the weight of the situation and that the choice is not only affecting them, but many others as well. 
+Our project was a very ambitious one, totally at 7 scenes that the user experiences. The challenges appeared soon after, when we realized the considerable amount of work that we had to pour into each scene to make it work in the grander scheme of the tale itself. We had to find a way to deliver a playable experience to the users taking into account our time and skill restraints. The user initially was meant to feel small and hopeless, not knowing what to decide. Instead we twisted in a way that would form a more empowered user, one that is aware of what is happening and confident of the power that they are given. Our focus shifted to have the player listen to all the different voices before making the decision. When the time comes, the user sees those same voices, reminded of the weight of the situation and that the choice is not only affecting them, but many others as well. 
 A compromise we had to make lies in the fact that our original characters were a bit too much for the oculus to handle (we ran into a performance issue), this made us decide to lower the amount of NPCs that we have, only keeping those that were crucial to the story line. In the outside scene for example (we would have loved to have more screaming people), we had to significantly reduce the crowd size. 
 Another storytelling challenge also came with the two ending scenes, we already had built so many interactions so the question was: do we add more interactions? or do we leave space for the user to contemplate? We chose the latter, due to the lack of time and to try to have open ended scenes where the user can find themselves imagining what the consequences of their choices will be. 
 

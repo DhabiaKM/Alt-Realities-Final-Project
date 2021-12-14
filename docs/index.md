@@ -158,6 +158,17 @@ Developing a bit on the visuals of each character, we decided to keep things str
 
 ## Audio 
 
+### Human Audio: The Script and Voice Acting
+
+```markdown
+
+
+# Voice Acting Script
+
+
+```
+
+### NonHuman Audio: Background Music and co. 
 
 ## Playtesting 
 
@@ -208,7 +219,6 @@ Fix the textures
 ## Challenges 
 
 Here are some of the challenges that we faced while working on this project. To say there were more than a few is an understatement.
-
 
 ### Technical Challenges
 

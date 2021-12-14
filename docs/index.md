@@ -114,11 +114,12 @@ Background of the scene: the lab scene is the inventor's first encounter with on
 
 
 ## Visuals 
-The aesthetic of our games aimed to revolve around a voxel world, where the environment is pixelated and objects are in remote resemblance to Minecraft.
+The aesthetic of our game aimed to revolve around a voxel world, where the environment is pixelated and objects are in remote resemblance to Minecraft.
 To achieve this, the work was broken down into several parts.
 First, finding the corresponding inspiration. Voxel art seems to be a growing trend in the 3D art community lately, and it consequently was easy to find good looking references on Behance to get a feel for how voxel spaces could look like in VR. More specifically, we took inspiration from some of the works from [this artist on Behance](https://www.behance.net/joannan/).
 
-Here are some time lapses of the voxel asset making.
+Our voxel scenes were made with VoxelMax, an iPad app. This process quickly turned out to be meticulous, as each block mattered, and there were considerbly less geometric guidance compared to other apps like Shapr3D. However, using voxels instantly gave each asset a unique gamy-feel, which ensured that things could be brought together in cohesion. Here are a few timelapses of the assets making: [Corridor scene](https://youtu.be/r7x9g2Irfsc)  |  [Lab scene](https://youtu.be/rpq_jVUein4)  |  [Space ship scene](https://youtu.be/ReEonKyajRU)
+
 
 Alongside with handmade assets, we decided to also make our own characters. For that we used Blender, which turned out to be a somewhat convenient 3D asset making tool. We followed this tutorial to make a smooth-looking and minimal character. Once completed, it served as the foundation for other characters used in the whole game. [Here is a timelapse of how the character was made](https://youtu.be/hHOI7UXdkbA).
 

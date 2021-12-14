@@ -133,7 +133,7 @@ Background of the scene: the lab scene is the inventor's first encounter with on
 ## Process 
 
 
-
+hi
 ## Playtesting 
 
 I got a few of our classmates to playtest and based on that we refined and further improved our project. Here's more on what that process was like. I would like to state that this was a pretty fun experience! Note that playtesting was done when we had 3 scenes half built. Those three scenes are the Lobby, Corridor and the Lab. The basic interactions had been set up but everything at this point of the project was still pretty janky and needed bob the builder (we fixed it ;>). 

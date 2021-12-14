@@ -74,12 +74,13 @@ the lab scene is the inventor's first encounter with one group of interest — t
 
 **Interactions Sequence**
 
-- Greeted by Joseph: when the inventor enters the lab, Joseph would come over and greet her
-- Follow Joseph and see him talking: after greeting, Joseph would ask the user to follow him over to the lab table. When the user comes, Joseph would introduce her to the concept of hypergrowth.
-- Pour the bottle: Joseph would instruct the inventor to pick up the yellow bottle on the table and pour it inside the blue container on the robot's hand.
-- See the plant grow: after the inventor successfully pours into the blue container, the inventor would see a pump transferring the yellow chemicals into the tube, and the plant will grow.
-- Respond to Joseph: after the inventor sees the plant growing quickly, Joseph will ask her if such an effect has changed her mind. Then a UI would appear asking the inventor to respond (has two options). Joseph would respond accordingly.
-- Leave the lab: the inventor received enough information and would like to take a walk outside to clear her head. Joseph would say goodbye to her and the inventor would go to the teleport portal and teleport to the outside world.
+    - Greeted by Joseph: when the inventor enters the lab, Joseph would come over and greet her
+    - Follow Joseph and see him talking: after greeting, Joseph would ask the user to follow him over to the lab table. When the user comes, Joseph would introduce her to the concept of hypergrowth.
+    - Pour the bottle: Joseph would instruct the inventor to pick up the yellow bottle on the table and pour it inside the blue container on the robot's hand.
+    - See the plant grow: after the inventor successfully pours into the blue container, the inventor would see a pump transferring the yellow chemicals into the tube, and the plant will grow.
+    - Respond to Joseph: after the inventor sees the plant growing quickly, Joseph will ask her if such an effect has changed her mind. Then a UI would appear asking the inventor to respond (has two options). Joseph would respond accordingly.
+    - Leave the lab: the inventor received enough information and would like to take a walk outside to clear her head. Joseph would say goodbye to her and the inventor would go to the teleport portal and teleport to the outside world.
+
 
 **Implementation**
 
@@ -354,7 +355,7 @@ Make him pause before telling us to play around by ourselves
 
 Fix the textures 
 
-### Playtester: Ons
+### Playtester: Ons 
 
 - Door how to open
 - Corridor goes away too fast

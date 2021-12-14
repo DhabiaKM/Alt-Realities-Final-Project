@@ -61,7 +61,7 @@ In the corridor, the inventor is faced with her past. The corridor consists of h
 ** Implementation**
 
 ### Scene 3 - The Lab 
-![image](https://drive.google.com/uc?export=view&id=<16VpR4K2rhQbkLpyoNVeSzfbGFW4-U_il>)
+![image](https://drive.google.com/uc?export=view&id=16VpR4K2rhQbkLpyoNVeSzfbGFW4-U_il)
 
 ** Background **
 Background of the scene: the lab scene is the inventor's first encounter with one group of interest — the scientists. The inventor would be greeted by the representative of the scientist group - Joseph, who is also her friend. Joseph would show the hyper-growth concept to the inventor in an attempt to persuade the inventor into supporting the scientists. 

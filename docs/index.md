@@ -1,10 +1,6 @@
 ## Faith (in)Humanity Documentation 
 
 
-You can use the [editor on GitHub](https://github.com/DhabiaKM/AltRealitiesFinalProject/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Our Inspiration and Initial Idea
 
 Our project is inspired by the famous science fiction novel The Three-Body Problem, which describes how extraterrestrial is trying to destroy the Earth. We didn't replicate that story, rather we found that people's different reactions to doomsday interesting. Some people are calm and trying to find solutions, some people are in panic and some people are even worshiping the aliens. To dramatize the story, we want to showcase various interests of the group and present to the user the important decision to make that would determine the fate of humankind. 

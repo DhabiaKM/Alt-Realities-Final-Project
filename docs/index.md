@@ -23,6 +23,7 @@
     - [Playtester: Marta](#playtester-marta)
   - [Challenges](#challenges)
     - [Technical Challenges](#technical-challenges)
+    - [Expecting User Behavior](#expecting-user-behavior)
     - [Storytelling Challenges](#storytelling-challenges)
   - [Reflection and Final Thoughts](#reflection-and-final-thoughts)
 
@@ -495,21 +496,30 @@ Here are some of the challenges that we faced while working on this project. To 
 
 ### Technical Challenges
 
+### Expecting User Behavior
+
+
+
 ### Storytelling Challenges 
 
 Our project was a very ambitious one, totally at 7 scenes that the user experiences. The challenges appeared soon after, when we realized the considerable amount of work that we had to pour into each scene to make it work in the grander scheme of the tale itself. We had to find a way to deliver a playable experience to the users taking into account our time and skill restraints. The user initially was meant to feel small and hopeless, not knowing what to decide. Instead we twisted in a way that would form a more empowered user, one that is aware of what is happening and confident of the power that they are given. 
 Our focus was to have the player listen to all the different voices before making the decision. When the time comes, the user sees those same voices, reminded of the weight of the situation and that the choice is not only affecting them, but many others as well. 
-A compromise we had to make lies in the fact that our original characters were a bit too much for the oculus to handle (we ran into a preformance issue), this made us decide to lower the amount of NPCs that we have, only keeping those that were crucial to the story line. In the outside scene for example (we would have loved to have more screaming people), we had to significantly reduce the crowd size. 
+A compromise we had to make lies in the fact that our original characters were a bit too much for the oculus to handle (we ran into a performance issue), this made us decide to lower the amount of NPCs that we have, only keeping those that were crucial to the story line. In the outside scene for example (we would have loved to have more screaming people), we had to significantly reduce the crowd size. 
 Another storytelling challenge also came with the two ending scenes, we already had built so many interactions so the question was: do we add more interactions? or do we leave space for the user to contemplate? We chose the latter, due to the lack of time and to try to have open ended scenes where the user can find themselves imagining what the consequences of their choices will be. 
 
 ## Reflection and Final Thoughts
 
+Any final thoughts: what we've achieved, what we could improve
 
+Given the time limit, division of work, technical difficulty, and the giant content of the project itself, we think have successfully achieved the storytelling, world-building, and interactions requirements. The story is a complete and playable one, and the animations, sound, and interactions are well integrated to ensure an immersive experience. The expectations of user behavior are also well manipulated to guarantee the fourth wall experience.
 
+While we have tried our best to achieve the best possible project within the short time limit, there's still much to improve to enhance the user experience. 
 
+Things we would've implemented if we had more time: 
 
-
-
+1. More autonomous agents and background storytelling: our visuals, for now, are relatively simple, there are so many details to add for a giant world-building. Also for the NPCs, the world would be more chaotic if there are many NPCs from various groups of interests trying to persuade the user into a certain decision.
+2. More about the ending scenes: due to the time limit we leave the ending scenes up to the user's imagination. But if we build more about the ending scenes the story would be more dramatic. 
+3. More sound effects: sounds could play a large role in storytelling. We could add more dramatic sound if we have time so as to add more life to the story.
 
 
 

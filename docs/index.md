@@ -179,8 +179,7 @@ The inventor wakes up here. This scene has a futuristic setting, cool colors ref
 
 
 **Implementation**
-
-    - Massage Plays 
+Th
 ### Scene 2 - The Corridor 
 
 ![image](https://drive.google.com/uc?export=view&id=1WgtXSW0XS11F_2-vwS9b12Hk_KxbfAp6)
@@ -190,8 +189,32 @@ The inventor wakes up here. This scene has a futuristic setting, cool colors ref
 In the corridor, the inventor is faced with her past. The corridor consists of holographic panels that the inventor encounters, she stands and contemplates over the things that got her to where she is today. The player here is meant to be given as much context as possible in order for them to grasp the kind of person they are in this reality. They are someone important, but beyond that, they have an important choice to make. 
 
 **Interactions Sequence**
+  
+    - Blinking Anchors
+    - Once the user is at an anchor, they are able to listen to an internal monologue, while reading an insight about the inventor's life on the hologram 
+    - The user moves on from one hologram to the next until they reach the lab. 
 
 **Implementation**
+Implementation here was not difficult, the anchors were the triggers that detected collision between their colliders and the collider on the right hand. That detection triggers an audio source, followed by a countdown timer to make the current hologram disappear and the next one appear. Note that anchors disappear immediately as soon as a user steps on them. This is to avoid multiple collisions which could lead to the internal monologue playing more than once.
+
+The Audio plays immediately onTriggerEnter and calls this coroutine straight afterwards. (Code snippet from script HolographCorridorController.cs)
+
+```markdown
+
+     IEnumerator SetThingsRight()
+    {
+        yield return new WaitForSeconds(McTalk.clip.length); 
+        yield return new WaitForSeconds(15);
+        Debug.Log("I am in the coroutine");
+        Holograph.SetActive(false);
+        mySelf.SetActive(false);
+        nextSelf.SetActive(true);
+        nextHolograph.SetActive(true);
+
+
+    }
+
+```
 
 ### Scene 3 - The Lab 
 
@@ -242,6 +265,7 @@ The outside scene is where the inventor encounters another two groups of people 
 ![image](https://drive.google.com/uc?export=view&id=1ZRpoB4zOZKtM-iv7nwyNcuELW4un6mDe)
 
 **Background**
+
 In this scene the inventor comes back to the lobby for the final decision. 
 **Interactions Sequence**
   
@@ -251,6 +275,7 @@ In this scene the inventor comes back to the lobby for the final decision.
     - Once the Messages are done playing, the characters disappear and the dialogue screen appears. The user makes their choice. 
     
 **Implementation**
+
 There is no teleportation area, the user is stuck on an anchor in front of the table. The dialogue action and the animation of the characters was pretty similar to the first scene, except here we used nested coroutines to trigger the character's messages in order, one after the next. As soon as the button gets pressed by the user, the following coroutine is triggered (snippet from HologramControllerFinal.cs): 
 
 ```markdown
@@ -299,9 +324,11 @@ There is no teleportation area, the user is stuck on an anchor in front of the t
 ![image](https://drive.google.com/uc?export=view&id=1Z35ihd7PlEjm6Gb4d_rj6vGLfdFL3Hu0)
 
 **Background**
+
 The user ends up here if they choose to contact the aliens instead of staying on earth. 
 
 **Interactions Sequence**
+
 There are no interactions here, just a teleportation area and inner-monologue that plays, followed by a defined period of silence before the application quits. 
 
 **Implementation**
@@ -346,12 +373,15 @@ public class QuitGame : MonoBehaviour
 ![image](https://drive.google.com/uc?export=view&id=1G_fs_XQK9gbGLjTQVhNKp25OjR5LnvGQ)
 
 **Background**
+
 The user ends up here if they choose to stay on earth. This scene visually is very similar to the outside scene except the music is more hopeful and the sky is blue, and more welcoming. 
 
 **Interactions Sequence**
+
 There are no interactions here, just a teleportation area and inner-monologue that plays, followed by a defined period of silence before the application quits. 
 
 **Implementation**
+
 Exactly the same as scene six :> 
 
 ## Visuals 

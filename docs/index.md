@@ -235,11 +235,57 @@ The outside scene is where the inventor encounters another two groups of people 
 ![image](https://drive.google.com/uc?export=view&id=1ZRpoB4zOZKtM-iv7nwyNcuELW4un6mDe)
 
 **Background**
-
+In this scene the inventor comes back to the lobby for the final decision. 
 **Interactions Sequence**
-
+  
+    - The button is flashing and ringing for the inventor to press
+    - Once the inventor presses it, the holograms start appearing with a final message. The holograms are all the people the inventor has met before. 
+    - The order they appear in is as follows: Government Official -> Joseph -> Cult Member 
+    - Once the Messages are done playing, the characters disappear and the dialogue screen appears. The user makes their choice. 
+    
 **Implementation**
+There is no teleportation area, the user is stuck on an anchor in front of the table. The dialogue action and the animation of the characters was pretty similar to the first scene, except here we used nested coroutines to trigger the character's messages in order, one after the next. As soon as the button gets pressed by the user, the following coroutine is triggered: 
 
+```markdown
+
+    public void PlayMyCoroutines(){ 
+        StartCoroutine(GovFinalMessage());
+        // StartCoroutine(GovFinalMessage()); 
+    }
+
+    // Update is called once per frame
+    IEnumerator CultFinalMessage(){ 
+        Cult.SetActive(true); 
+        CultAudio.Play(); 
+        yield return new WaitForSeconds(CultAudio.clip.length); 
+        yield return new WaitForSeconds(1); 
+        Cult.SetActive(false);
+        DialogueController.SetActive(true);
+
+
+    }
+
+    IEnumerator GovFinalMessage(){ 
+        Government.SetActive(true); 
+        GovernmentAudio.Play(); 
+        yield return new WaitForSeconds(GovernmentAudio.clip.length); 
+        yield return new WaitForSeconds(1); 
+        Government.SetActive(false); 
+        StartCoroutine(ScientistFinalMessage()); 
+
+    }
+
+    IEnumerator ScientistFinalMessage(){ 
+        Scientist.SetActive(true); 
+        ScientistAudio.Play(); 
+        yield return new WaitForSeconds(ScientistAudio.clip.length); 
+        yield return new WaitForSeconds(1); 
+        Scientist.SetActive(false);
+        StartCoroutine(CultFinalMessage());
+
+    }
+
+```
 
 ### Scene 6 - Spaceship Ending 
 

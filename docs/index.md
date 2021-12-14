@@ -44,6 +44,8 @@ Our project has 7 scenes in total, each scene is crucial to the
 
 ### Scene 1 - The Lobby 
 
+![image](https://drive.google.com/uc?export=view&id=1RoAgrhXLfzmQxL8BRFg9bKvRDYzwz5n0)
+
 **Background**
 
 **Interactions Sequence**
@@ -52,6 +54,8 @@ Our project has 7 scenes in total, each scene is crucial to the
 
 
 ### Scene 2 - The Corridor 
+
+![image](https://drive.google.com/uc?export=view&id=1RoAgrhXLfzmQxL8BRFg9bKvRDYzwz5n0)
 
 **Background**
 
@@ -63,6 +67,7 @@ In the corridor, the inventor is faced with her past. The corridor consists of h
 
 ### Scene 3 - The Lab 
 
+![image](https://drive.google.com/uc?export=view&id=1RoAgrhXLfzmQxL8BRFg9bKvRDYzwz5n0)
 
 **Background**
 
@@ -83,6 +88,8 @@ the lab scene is the inventor's first encounter with one group of interest — t
 
 ### Scene 4 - The Outside 
 
+![image](https://drive.google.com/uc?export=view&id=1RoAgrhXLfzmQxL8BRFg9bKvRDYzwz5n0)
+
 **Background**
 
 The outside scene is where the inventor encounters another two groups of people who hold vastly different opinions about the right choice about humankinds' fate. One group is the panicked crowd, who would be running around, shouting or sighing in response to the desperate situation of the Earth. The inventor would see them, but won't interact with them. Another group is the cult, who worship the unknown extraterrestrials, regarding them more as gods who would save humans. The cult would see the inventor and come to her to persuade her into trusting and contacting the aliens. The cult also hate the inventor because the inventor, who herself is also a scientist, is involved in the process of high-tech development at the expense of resources depletion.
@@ -98,8 +105,9 @@ The outside scene is where the inventor encounters another two groups of people 
 **Implementation**
 
 ![image](https://drive.google.com/uc?export=view&id=1ccskiJUv_zdZbStPFBKqzkL761tBCOfd)
-### Scene 5 - The Lobby 
+### Scene 5 - The Lobby Again
 
+![image](https://drive.google.com/uc?export=view&id=1RoAgrhXLfzmQxL8BRFg9bKvRDYzwz5n0)
 
 **Background**
 
@@ -110,6 +118,8 @@ The outside scene is where the inventor encounters another two groups of people 
 
 ### Scene 6 - Spaceship Ending 
 
+![image](https://drive.google.com/uc?export=view&id=1RoAgrhXLfzmQxL8BRFg9bKvRDYzwz5n0)
+
 **Background**
 
 **Interactions Sequence**
@@ -118,6 +128,8 @@ The outside scene is where the inventor encounters another two groups of people 
 
 
 ### Scene 7 - Outside Ending 
+
+![image](https://drive.google.com/uc?export=view&id=1RoAgrhXLfzmQxL8BRFg9bKvRDYzwz5n0)
 
 **Background**
 

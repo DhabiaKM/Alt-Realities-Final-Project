@@ -1,5 +1,8 @@
 # Faith (in)Humanity Documentation 
+
 Dhabia AlMansoori - Hu Yiwen - Ilya Akimov
+All Images in this documentation can be found here: [Link](https://drive.google.com/drive/folders/16VpR4K2rhQbkLpyoNVeSzfbGFW4-U_il?usp=sharing)
+
 ## Table of Contents
 - [Faith (in)Humanity Documentation](#faith-inhumanity-documentation)
   - [Table of Contents](#table-of-contents)
@@ -14,6 +17,7 @@ Dhabia AlMansoori - Hu Yiwen - Ilya Akimov
     - [Scene 5 - The Lobby Again](#scene-5---the-lobby-again)
     - [Scene 6 - Spaceship Ending](#scene-6---spaceship-ending)
     - [Scene 7 - Outside Ending](#scene-7---outside-ending)
+  - [Work In Progress Shots](#work-in-progress-shots)
   - [Visuals](#visuals)
   - [Audio](#audio)
     - [Human Audio: The Script and Voice Acting](#human-audio-the-script-and-voice-acting)
@@ -393,6 +397,25 @@ There are no interactions here, just a teleportation area and inner-monologue th
 
 Exactly the same as scene six :> 
 
+## Work In Progress Shots 
+
+Now you've seen the final versions of everything! Here's a small look into what the end product looked like when were developing it. Our baby was so small and basic. 
+
+**Early Lobby Screenshots**
+![image](https://drive.google.com/uc?export=view&id=1hiWltPGlIRK1T48NJd0ohtuwGjlZfYl0)
+
+![image](https://drive.google.com/uc?export=view&id=1yIhPmCoyuN5IcRwHVe1vK-XJdD8scKl-)
+
+**Early Corridor Screenshots**
+![image](https://drive.google.com/uc?export=view&id=1UHstOUKjPVBO1kRg_w3pTe2N_WhZ1TNP)
+
+![image](https://drive.google.com/uc?export=view&id=1H8syj3Z8OAodppaq8ZONs2rYpjgA8l4q)
+
+**Early Lab Screenshots**
+![image](https://drive.google.com/uc?export=view&id=HjEVhv4lir1a6qiF5ITfRDh6Z9XR)
+
+![image](https://drive.google.com/uc?export=view&id=16oQqbw2ywqVCzmNCgj0qNKknOTc54NP2)
+
 ## Visuals 
 The aesthetic of our game aimed to revolve around a voxel world, where the environment is pixelated and objects are in remote resemblance to Minecraft.
 To achieve this, the work was broken down into several parts.
@@ -409,6 +432,7 @@ Developing a bit on the visuals of each character, we decided to keep things str
 
 
 ## Audio 
+A look into what our project sounds like and the people who brought our characters to life! 
 
 ### Human Audio: The Script and Voice Acting
 
